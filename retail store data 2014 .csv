@@ -1,0 +1,790 @@
+Row ID,Order ID,Order Date,Year,Ship Date,Ship Mode,CUS ID Name ,Segment,Country,City,State,Postal Code,Region,Product ID,Category,Sales,Quantity,Discount
+6,CA-2014-115812,06-09-2014,2014,14-6-2014,Standard Class,BH-11710 Brosina Hoffman,Consumer,United States,Los Angeles,California,90032,West,FUR-FU-10001487,Furniture,48.86,7,0
+7,CA-2014-115812,06-09-2014,2014,14-6-2014,Standard Class,BH-11710 Brosina Hoffman,Consumer,United States,Los Angeles,California,90032,West,OFF-AR-10002833,Office Supplies,7.28,4,0
+8,CA-2014-115812,06-09-2014,2014,14-6-2014,Standard Class,BH-11710 Brosina Hoffman,Consumer,United States,Los Angeles,California,90032,West,TEC-PH-10002275,Technology,907.152,6,0.2
+9,CA-2014-115812,06-09-2014,2014,14-6-2014,Standard Class,BH-11710 Brosina Hoffman,Consumer,United States,Los Angeles,California,90032,West,OFF-BI-10003910,Office Supplies,18.504,3,0.2
+10,CA-2014-115812,06-09-2014,2014,14-6-2014,Standard Class,BH-11710 Brosina Hoffman,Consumer,United States,Los Angeles,California,90032,West,OFF-AP-10002892,Office Supplies,114.9,5,0
+11,CA-2014-115812,06-09-2014,2014,14-6-2014,Standard Class,BH-11710 Brosina Hoffman,Consumer,United States,Los Angeles,California,90032,West,FUR-TA-10001539,Furniture,1706.184,9,0.2
+12,CA-2014-115812,06-09-2014,2014,14-6-2014,Standard Class,BH-11710 Brosina Hoffman,Consumer,United States,Los Angeles,California,90032,West,TEC-PH-10002033,Technology,911.424,4,0.2
+16,US-2015-118983,13-5-2014,2014,18-11-2014,Standard Class,HP-14815 Harold Pawlan,Home Office,United States,Fort Worth,Texas,76106,Central,OFF-BI-10000756,Office Supplies,2.544,3,0.8
+17,CA-2014-105893,27-8-2014,2014,15-5-2014,Standard Class,PK-19075 Pete Kriz,Consumer,United States,Madison,Wisconsin,53711,Central,OFF-ST-10004186,Office Supplies,665.88,6,0
+18,CA-2014-167164,27-8-2014,2014,13-12-2016,Second Class,AG-10270 Alejandro Grove,Consumer,United States,West Jordan,Utah,84084,West,OFF-ST-10000107,Office Supplies,55.5,2,0
+19,CA-2014-143336,27-8-2014,2014,13-12-2016,Second Class,ZD-21925 Zuschuss Donatelli,Consumer,United States,San Francisco,California,94109,West,OFF-AR-10003056,Office Supplies,8.56,2,0
+38,CA-2015-117415,20-10-2014,2014,23-9-2017,Standard Class,SN-20710 Steve Nguyen,Home Office,United States,Houston,Texas,77041,Central,OFF-EN-10002986,Office Supplies,113.328,9,0.2
+62,CA-2016-111682,26-11-2014,2014,17-9-2017,First Class,TB-21055 Ted Butterfield,Consumer,United States,Troy,New York,12180,East,OFF-AR-10001868,Office Supplies,1.68,1,0
+85,US-2017-119662,25-8-2014,2014,15-6-2016,First Class,CS-12400 Christopher Schild,Home Office,United States,Chicago,Illinois,60623,Central,OFF-ST-10003656,Office Supplies,230.376,3,0.2
+86,CA-2017-140088,25-8-2014,2014,15-6-2016,Second Class,PO-18865 Patrick O'Donnell,Consumer,United States,Columbia,South Carolina,29203,South,FUR-CH-10000863,Furniture,301.96,2,0
+87,CA-2017-155558,25-8-2014,2014,15-6-2016,Standard Class,PG-18895 Paul Gonzalez,Consumer,United States,Rochester,Minnesota,55901,Central,TEC-AC-10001998,Technology,19.99,1,0
+88,CA-2017-155558,25-8-2014,2014,15-6-2016,Standard Class,PG-18895 Paul Gonzalez,Consumer,United States,Rochester,Minnesota,55901,Central,OFF-LA-10000134,Office Supplies,6.16,2,0
+89,CA-2016-159695,26-12-2014,2014,15-6-2016,Second Class,GM-14455 Gary Mitchum,Home Office,United States,Houston,Texas,77095,Central,OFF-ST-10003442,Office Supplies,158.368,7,0.2
+90,CA-2016-109806,20-9-2014,2014,28-12-2014,Standard Class,JS-15685 Jim Sink,Corporate,United States,Los Angeles,California,90036,West,OFF-AR-10004930,Office Supplies,20.1,3,0
+102,CA-2016-158568,22-10-2014,2014,27-12-2017,Standard Class,RB-19465 Rick Bensley,Home Office,United States,Chicago,Illinois,60610,Central,OFF-BI-10002609,Office Supplies,1.788,3,0.8
+113,CA-2016-128867,14-9-2014,2014,23-11-2015,Standard Class,CL-12565 Clay Ludtke,Consumer,United States,Urbandale,Iowa,50322,Central,OFF-BI-10003981,Office Supplies,27.24,6,0
+114,CA-2014-115259,14-9-2014,2014,23-11-2015,Second Class,RC-19960 Ryan Crowe,Consumer,United States,Columbus,Ohio,43229,East,OFF-FA-10000621,Office Supplies,40.096,14,0.2
+119,US-2015-136476,19-11-2014,2014,30-8-2014,Standard Class,GG-14650 Greg Guthrie,Corporate,United States,Bristol,Tennessee,37620,South,OFF-BI-10003650,Office Supplies,157.794,1,0.7
+120,CA-2016-103730,19-11-2014,2014,22-7-2016,First Class,SC-20725 Steven Cartwright,Consumer,United States,Wilmington,Delaware,19805,East,FUR-FU-10002157,Furniture,47.04,3,0
+121,CA-2016-103730,19-11-2014,2014,22-7-2016,First Class,SC-20725 Steven Cartwright,Consumer,United States,Wilmington,Delaware,19805,East,OFF-BI-10003910,Office Supplies,30.84,4,0
+123,CA-2016-103730,26-8-2014,2014,14-10-2015,First Class,SC-20725 Steven Cartwright,Consumer,United States,Wilmington,Delaware,19805,East,OFF-EN-10002500,Office Supplies,115.02,9,0
+127,US-2017-107272,21-3-2014,2014,25-3-2014,Standard Class,TS-21610 Troy Staebel,Consumer,United States,Phoenix,Arizona,85023,West,OFF-BI-10003274,Office Supplies,2.388,2,0.7
+128,US-2017-107272,21-3-2014,2014,25-3-2014,Standard Class,TS-21610 Troy Staebel,Consumer,United States,Phoenix,Arizona,85023,West,OFF-ST-10002974,Office Supplies,243.992,7,0.2
+141,CA-2016-110366,13-9-2014,2014,27-12-2015,Second Class,JD-15895 Jonathan Doherty,Corporate,United States,Philadelphia,Pennsylvania,19140,East,FUR-FU-10004848,Furniture,82.8,2,0.2
+146,CA-2015-110744,19-9-2014,2014,16-11-2017,Standard Class,HA-14920 Helen Andreada,Consumer,United States,Pasadena,California,91104,West,OFF-ST-10003656,Office Supplies,671.93,7,0
+147,CA-2014-110072,19-9-2014,2014,15-12-2016,Standard Class,MG-17680 Maureen Gastineau,Home Office,United States,Newark,Ohio,43055,East,FUR-FU-10000521,Furniture,93.888,4,0.2
+172,CA-2014-118962,26-12-2014,2014,20-12-2016,Standard Class,CS-12130 Chad Sievert,Consumer,United States,Los Angeles,California,90004,West,OFF-PA-10000659,Office Supplies,20.94,3,0
+173,CA-2014-118962,26-12-2014,2014,20-12-2016,Standard Class,CS-12130 Chad Sievert,Consumer,United States,Los Angeles,California,90004,West,OFF-PA-10001144,Office Supplies,110.96,2,0
+174,CA-2014-118962,26-12-2014,2014,24-11-2016,Standard Class,CS-12130 Chad Sievert,Consumer,United States,Los Angeles,California,90004,West,FUR-CH-10003817,Furniture,340.144,7,0.2
+175,US-2014-100853,26-12-2014,2014,24-11-2016,Standard Class,JB-15400 Jennifer Braxton,Corporate,United States,Chicago,Illinois,60623,Central,OFF-AP-10000891,Office Supplies,52.448,2,0.8
+176,US-2014-100853,26-12-2014,2014,24-11-2016,Standard Class,JB-15400 Jennifer Braxton,Corporate,United States,Chicago,Illinois,60623,Central,OFF-LA-10003148,Office Supplies,20.16,4,0.2
+183,CA-2014-158274,30-12-2014,2014,23-11-2017,Second Class,RM-19675 Robert Marley,Home Office,United States,Monroe,Louisiana,71203,South,TEC-PH-10003273,Technology,503.96,4,0
+185,CA-2014-158274,27-9-2014,2014,14-9-2016,Second Class,RM-19675 Robert Marley,Home Office,United States,Monroe,Louisiana,71203,South,TEC-AC-10002345,Technology,29,2,0
+186,CA-2016-105018,28-12-2014,2014,14-9-2016,Standard Class,SK-19990 Sally Knutson,Consumer,United States,Fairfield,Connecticut,6824,East,OFF-BI-10001890,Office Supplies,7.16,2,0
+187,CA-2014-123260,19-9-2014,2014,14-9-2016,Standard Class,FM-14290 Frank Merwin,Home Office,United States,Los Angeles,California,90032,West,TEC-AC-10002323,Technology,176.8,8,0
+199,US-2017-124303,13-4-2014,2014,17-7-2014,Standard Class,FH-14365 Fred Hopkins,Corporate,United States,Philadelphia,Pennsylvania,19120,East,OFF-BI-10000343,Office Supplies,2.946,2,0.7
+200,US-2017-124303,13-4-2014,2014,26-6-2015,Standard Class,FH-14365 Fred Hopkins,Corporate,United States,Philadelphia,Pennsylvania,19120,East,OFF-PA-10002749,Office Supplies,16.056,3,0.2
+201,CA-2017-105074,13-4-2014,2014,17-4-2014,Standard Class,MB-17305 Maria Bertelson,Consumer,United States,Akron,Ohio,44312,East,OFF-PA-10002666,Office Supplies,21.744,3,0.2
+202,CA-2014-133690,13-4-2014,2014,17-4-2014,First Class,BS-11755 Bruce Stewart,Consumer,United States,Denver,Colorado,80219,West,FUR-TA-10004289,Furniture,218.75,2,0.5
+210,CA-2017-135860,24-9-2014,2014,13-4-2016,Standard Class,JH-15985 Joseph Holt,Consumer,United States,Saginaw,Michigan,48601,Central,OFF-FA-10000134,Office Supplies,52.29,9,0
+217,CA-2015-146262,23-7-2014,2014,27-7-2014,Standard Class,VW-21775 Victoria Wilson,Corporate,United States,Medina,Ohio,44256,East,TEC-AC-10000109,Technology,89.584,2,0.2
+218,CA-2016-130162,23-7-2014,2014,27-7-2014,Standard Class,JH-15910 Jonathan Howell,Consumer,United States,Los Angeles,California,90032,West,OFF-ST-10001328,Office Supplies,93.06,6,0
+219,CA-2016-130162,23-7-2014,2014,27-7-2014,Standard Class,JH-15910 Jonathan Howell,Consumer,United States,Los Angeles,California,90032,West,TEC-PH-10002563,Technology,302.376,3,0.2
+220,CA-2015-169397,23-7-2014,2014,27-7-2014,First Class,JB-15925 Joni Blumstein,Consumer,United States,Dublin,Ohio,43017,East,OFF-FA-10000585,Office Supplies,5.584,2,0.2
+231,US-2014-156216,24-11-2014,2014,26-12-2014,Standard Class,EA-14035 Erin Ashbrook,Corporate,United States,Charlotte,North Carolina,28205,South,OFF-BI-10001679,Office Supplies,18.648,7,0.7
+232,US-2017-100930,21-9-2014,2014,20-4-2014,Standard Class,CS-12400 Christopher Schild,Home Office,United States,Tampa,Florida,33614,South,FUR-TA-10001705,Furniture,233.86,2,0.45
+233,US-2017-100930,21-9-2014,2014,29-12-2017,Standard Class,CS-12400 Christopher Schild,Home Office,United States,Tampa,Florida,33614,South,FUR-TA-10003473,Furniture,620.6145,3,0.45
+238,CA-2016-157749,24-12-2014,2014,23-10-2017,Second Class,KL-16645 Ken Lonsdale,Consumer,United States,Chicago,Illinois,60610,Central,OFF-PA-10003349,Office Supplies,25.92,5,0.2
+239,CA-2016-157749,16-4-2014,2014,23-8-2017,Second Class,KL-16645 Ken Lonsdale,Consumer,United States,Chicago,Illinois,60610,Central,FUR-FU-10000576,Furniture,419.68,5,0.6
+243,CA-2016-157749,22-6-2014,2014,21-4-2016,Second Class,KL-16645 Ken Lonsdale,Consumer,United States,Chicago,Illinois,60610,Central,FUR-FU-10002505,Furniture,4.044,3,0.6
+253,CA-2016-146941,19-12-2014,2014,25-3-2017,First Class,DL-13315 Delfina Latchford,Consumer,United States,New York City,New York,10024,East,OFF-ST-10001228,Office Supplies,80.58,6,0
+254,CA-2016-146941,19-12-2014,2014,24-10-2017,First Class,DL-13315 Delfina Latchford,Consumer,United States,New York City,New York,10024,East,OFF-EN-10003296,Office Supplies,361.92,4,0
+278,CA-2017-132976,22-7-2014,2014,13-6-2014,Standard Class,AG-10495 Andrew Gjertsen,Corporate,United States,Philadelphia,Pennsylvania,19140,East,OFF-PA-10004470,Office Supplies,18.176,4,0.2
+279,CA-2017-132976,22-7-2014,2014,19-9-2014,Standard Class,AG-10495 Andrew Gjertsen,Corporate,United States,Philadelphia,Pennsylvania,19140,East,OFF-ST-10000876,Office Supplies,59.712,6,0.2
+280,CA-2017-132976,29-10-2014,2014,19-9-2014,Standard Class,AG-10495 Andrew Gjertsen,Corporate,United States,Philadelphia,Pennsylvania,19140,East,OFF-LA-10002043,Office Supplies,24.84,3,0.2
+281,US-2015-161991,14-9-2014,2014,14-5-2016,Second Class,SC-20725 Steven Cartwright,Consumer,United States,Houston,Texas,77070,Central,OFF-BI-10004967,Office Supplies,2.08,5,0.8
+282,US-2015-161991,14-9-2014,2014,21-3-2016,Second Class,SC-20725 Steven Cartwright,Consumer,United States,Houston,Texas,77070,Central,TEC-PH-10001760,Technology,1114.4,7,0.2
+330,US-2016-141544,14-9-2014,2014,22-9-2015,First Class,PO-18850 Patrick O'Brill,Consumer,United States,Philadelphia,Pennsylvania,19143,East,OFF-LA-10001074,Office Supplies,100.24,10,0.2
+331,US-2016-141544,14-9-2014,2014,22-9-2015,First Class,PO-18850 Patrick O'Brill,Consumer,United States,Philadelphia,Pennsylvania,19143,East,OFF-BI-10001524,Office Supplies,37.764,6,0.7
+349,CA-2017-134306,15-3-2014,2014,21-7-2016,Standard Class,TD-20995 Tamara Dahlen,Consumer,United States,Lowell,Massachusetts,1852,East,OFF-AR-10001374,Office Supplies,12.96,2,0
+350,CA-2016-129714,15-3-2014,2014,19-3-2014,First Class,AB-10060 Adam Bellavance,Home Office,United States,New York City,New York,10009,East,TEC-AC-10000290,Technology,6.79,1,0
+351,CA-2016-129714,15-3-2014,2014,19-3-2014,First Class,AB-10060 Adam Bellavance,Home Office,United States,New York City,New York,10009,East,OFF-PA-10001970,Office Supplies,24.56,2,0
+352,CA-2016-129714,15-3-2014,2014,19-3-2014,First Class,AB-10060 Adam Bellavance,Home Office,United States,New York City,New York,10009,East,OFF-BI-10002160,Office Supplies,3.048,1,0.2
+353,CA-2016-129714,15-3-2014,2014,19-3-2014,First Class,AB-10060 Adam Bellavance,Home Office,United States,New York City,New York,10009,East,OFF-PA-10001970,Office Supplies,49.12,4,0
+354,CA-2016-129714,23-5-2014,2014,19-3-2014,First Class,AB-10060 Adam Bellavance,Home Office,United States,New York City,New York,10009,East,OFF-BI-10004995,Office Supplies,4355.168,4,0.2
+355,CA-2016-138520,23-5-2014,2014,27-5-2014,Standard Class,JL-15505 Jeremy Lonsdale,Consumer,United States,New York City,New York,10035,East,FUR-BO-10002268,Furniture,388.704,6,0.2
+356,CA-2016-138520,23-5-2014,2014,27-5-2014,Standard Class,JL-15505 Jeremy Lonsdale,Consumer,United States,New York City,New York,10035,East,OFF-EN-10001137,Office Supplies,8.26,2,0
+366,CA-2014-123344,26-12-2014,2014,23-8-2017,Standard Class,JD-16060 Julia Dunbar,Consumer,United States,San Francisco,California,94109,West,OFF-ST-10001713,Office Supplies,211.96,4,0
+399,CA-2016-108987,24-12-2014,2014,30-3-2016,Second Class,AG-10675 Anna Gayman,Consumer,United States,Houston,Texas,77036,Central,OFF-ST-10001580,Office Supplies,35.952,3,0.2
+409,CA-2017-117457,21-6-2014,2014,24-11-2016,Standard Class,KH-16510 Keith Herrera,Consumer,United States,San Francisco,California,94110,West,FUR-TA-10002041,Furniture,1004.024,7,0.2
+410,CA-2017-117457,21-6-2014,2014,24-11-2016,Standard Class,KH-16510 Keith Herrera,Consumer,United States,San Francisco,California,94110,West,OFF-PA-10002893,Office Supplies,9.68,1,0
+411,CA-2017-117457,21-6-2014,2014,24-11-2016,Standard Class,KH-16510 Keith Herrera,Consumer,United States,San Francisco,California,94110,West,OFF-LA-10003766,Office Supplies,28.35,9,0
+440,CA-2017-157252,27-5-2014,2014,25-1-2017,Second Class,CV-12805 Cynthia Voltz,Corporate,United States,New York City,New York,10024,East,FUR-CH-10003396,Furniture,207.846,3,0.1
+441,CA-2016-115756,27-5-2014,2014,25-1-2017,Second Class,PK-19075 Pete Kriz,Consumer,United States,Detroit,Michigan,48227,Central,FUR-FU-10000246,Furniture,12.22,1,0
+444,CA-2016-115756,29-12-2014,2014,27-5-2014,Second Class,PK-19075 Pete Kriz,Consumer,United States,Detroit,Michigan,48227,Central,OFF-PA-10002222,Office Supplies,91.36,4,0
+445,CA-2016-115756,29-12-2014,2014,27-5-2014,Second Class,PK-19075 Pete Kriz,Consumer,United States,Detroit,Michigan,48227,Central,FUR-CH-10002372,Furniture,242.94,3,0
+449,CA-2016-166674,13-1-2014,2014,22-9-2017,Second Class,RB-19360 Raymond Buch,Consumer,United States,Auburn,New York,13021,East,OFF-ST-10001469,Office Supplies,161.94,3,0
+450,CA-2016-166674,13-1-2014,2014,13-2-2015,Second Class,RB-19360 Raymond Buch,Consumer,United States,Auburn,New York,13021,East,OFF-AR-10001953,Office Supplies,263.88,6,0
+451,CA-2016-166674,13-1-2014,2014,15-1-2014,Second Class,RB-19360 Raymond Buch,Consumer,United States,Auburn,New York,13021,East,OFF-AR-10003156,Office Supplies,30.48,3,0
+452,CA-2016-166674,13-1-2014,2014,15-1-2014,Second Class,RB-19360 Raymond Buch,Consumer,United States,Auburn,New York,13021,East,OFF-AR-10004974,Office Supplies,9.84,3,0
+453,CA-2016-166674,13-1-2014,2014,15-1-2014,Second Class,RB-19360 Raymond Buch,Consumer,United States,Auburn,New York,13021,East,TEC-PH-10002365,Technology,35.12,4,0
+454,CA-2017-147277,14-5-2014,2014,15-1-2014,Standard Class,EB-13705 Ed Braxton,Corporate,United States,Akron,Ohio,44312,East,FUR-TA-10001539,Furniture,284.364,2,0.4
+462,CA-2015-109638,29-6-2014,2014,28-5-2015,Standard Class,JH-15985 Joseph Holt,Consumer,United States,Seattle,Washington,98115,West,OFF-BI-10001098,Office Supplies,51.312,3,0.2
+474,CA-2014-144666,20-9-2014,2014,26-12-2015,Second Class,JP-15520 Jeremy Pistek,Consumer,United States,San Francisco,California,94110,West,TEC-PH-10002680,Technology,703.968,4,0.2
+475,CA-2014-144666,20-9-2014,2014,26-12-2015,Second Class,JP-15520 Jeremy Pistek,Consumer,United States,San Francisco,California,94110,West,OFF-ST-10001321,Office Supplies,92.52,6,0
+485,CA-2017-140963,13-10-2014,2014,14-5-2017,First Class,MT-18070 Michelle Tran,Home Office,United States,Los Angeles,California,90045,West,OFF-LA-10003923,Office Supplies,29.6,2,0
+486,CA-2017-140963,13-10-2014,2014,14-5-2017,First Class,MT-18070 Michelle Tran,Home Office,United States,Los Angeles,California,90045,West,FUR-BO-10001337,Furniture,514.165,5,0.15
+487,CA-2017-140963,13-10-2014,2014,23-3-2015,First Class,MT-18070 Michelle Tran,Home Office,United States,Los Angeles,California,90045,West,TEC-PH-10001924,Technology,279.96,5,0.2
+488,CA-2014-154627,13-10-2014,2014,19-9-2016,First Class,SA-20830 Sue Ann Reed,Consumer,United States,Chicago,Illinois,60610,Central,TEC-PH-10001363,Technology,2735.952,6,0.2
+493,CA-2014-113362,28-6-2014,2014,28-8-2017,Standard Class,AJ-10960 Astrea Jones,Consumer,United States,Rochester,New York,14609,East,OFF-EN-10003845,Office Supplies,11.07,3,0
+494,CA-2016-169166,28-6-2014,2014,28-8-2017,Standard Class,SS-20590 Sonia Sunley,Consumer,United States,Seattle,Washington,98115,West,TEC-AC-10000991,Technology,93.98,2,0
+495,US-2016-120929,28-6-2014,2014,28-8-2017,Second Class,RO-19780 Rose O'Brian,Consumer,United States,Memphis,Tennessee,38109,South,FUR-TA-10001857,Furniture,189.882,3,0.4
+496,CA-2015-134782,28-6-2014,2014,21-6-2017,Standard Class,MD-17350 Maribeth Dona,Consumer,United States,Fayetteville,Arkansas,72701,South,OFF-EN-10001434,Office Supplies,105.42,2,0
+497,CA-2016-126158,28-6-2014,2014,21-6-2017,Standard Class,SC-20095 Sanjit Chand,Consumer,United States,Costa Mesa,California,92627,West,OFF-BI-10002498,Office Supplies,119.616,8,0.2
+526,CA-2015-158792,17-9-2014,2014,21-9-2014,Standard Class,BD-11605 Brian Dahlen,Consumer,United States,Lawrence,Massachusetts,1841,East,OFF-FA-10002815,Office Supplies,22.2,5,0
+531,US-2015-138303,29-4-2014,2014,19-10-2017,Standard Class,MG-18145 Mike Gockenbach,Consumer,United States,Philadelphia,Pennsylvania,19134,East,OFF-EN-10001335,Office Supplies,52.512,6,0.2
+548,CA-2017-162929,15-6-2014,2014,15-4-2015,First Class,AS-10135 Adrian Shami,Home Office,United States,New York City,New York,10035,East,OFF-PA-10002986,Office Supplies,13.36,2,0
+549,CA-2015-113173,15-6-2014,2014,15-4-2015,Second Class,DK-13225 Dean Katz,Corporate,United States,Chicago,Illinois,60653,Central,OFF-ST-10000604,Office Supplies,250.272,9,0.2
+550,CA-2015-113173,15-6-2014,2014,15-4-2015,Second Class,DK-13225 Dean Katz,Corporate,United States,Chicago,Illinois,60653,Central,OFF-BI-10004738,Office Supplies,11.364,3,0.8
+552,CA-2016-136406,13-9-2014,2014,16-9-2014,Second Class,BD-11320 Bill Donatelli,Consumer,United States,San Francisco,California,94110,West,FUR-CH-10002024,Furniture,1121.568,2,0.2
+553,CA-2017-112774,13-9-2014,2014,16-9-2014,First Class,RC-19960 Ryan Crowe,Consumer,United States,Jacksonville,Florida,32216,South,FUR-FU-10003039,Furniture,34.504,1,0.2
+584,CA-2017-145233,22-9-2014,2014,31-3-2015,Standard Class,DV-13465 Dianna Vittorini,Consumer,United States,Denver,Colorado,80219,West,OFF-AP-10000358,Office Supplies,31.152,3,0.2
+585,CA-2017-145233,16-1-2014,2014,27-8-2016,Standard Class,DV-13465 Dianna Vittorini,Consumer,United States,Denver,Colorado,80219,West,OFF-BI-10002764,Office Supplies,6.783,7,0.7
+586,CA-2017-145233,16-1-2014,2014,27-8-2016,Standard Class,DV-13465 Dianna Vittorini,Consumer,United States,Denver,Colorado,80219,West,TEC-PH-10001254,Technology,406.368,4,0.2
+587,CA-2015-128139,16-1-2014,2014,25-5-2014,Standard Class,BD-11725 Bruce Degenhardt,Consumer,United States,Richmond,Kentucky,40475,South,FUR-CH-10003956,Furniture,70.98,1,0
+588,CA-2015-128139,16-1-2014,2014,25-5-2014,Standard Class,BD-11725 Bruce Degenhardt,Consumer,United States,Richmond,Kentucky,40475,South,OFF-LA-10003930,Office Supplies,294.93,3,0
+598,CA-2014-131450,21-5-2014,2014,24-12-2015,Standard Class,LR-16915 Lena Radford,Consumer,United States,San Diego,California,92024,West,FUR-FU-10001979,Furniture,327.76,8,0
+599,CA-2016-120180,21-5-2014,2014,24-12-2015,First Class,TP-21130 Theone Pippenger,Consumer,United States,Philadelphia,Pennsylvania,19134,East,OFF-SU-10004115,Office Supplies,11.632,2,0.2
+611,CA-2016-161816,24-11-2014,2014,22-11-2016,First Class,NB-18655 Nona Balk,Corporate,United States,Dallas,Texas,75217,Central,TEC-PH-10003012,Technology,369.576,3,0.2
+630,CA-2017-133431,27-5-2014,2014,21-4-2015,Standard Class,LC-17140 Logan Currie,Consumer,United States,San Francisco,California,94122,West,OFF-PA-10002615,Office Supplies,13.23,3,0
+631,US-2016-135720,27-5-2014,2014,30-9-2017,Second Class,FM-14380 Fred McMath,Consumer,United States,Aurora,Colorado,80013,West,OFF-ST-10001963,Office Supplies,243.384,3,0.2
+657,CA-2016-137239,25-6-2014,2014,27-10-2016,Standard Class,CR-12730 Craig Reiter,Consumer,United States,Columbus,Ohio,43229,East,OFF-EN-10002230,Office Supplies,134.288,2,0.2
+677,US-2017-119438,20-1-2014,2014,16-4-2016,Standard Class,CD-11980 Carol Darley,Consumer,United States,Tyler,Texas,75701,Central,OFF-AP-10000804,Office Supplies,2.688,3,0.8
+678,US-2017-119438,20-1-2014,2014,16-4-2016,Standard Class,CD-11980 Carol Darley,Consumer,United States,Tyler,Texas,75701,Central,TEC-AC-10003614,Technology,27.816,3,0.2
+679,US-2017-119438,20-1-2014,2014,15-11-2016,Standard Class,CD-11980 Carol Darley,Consumer,United States,Tyler,Texas,75701,Central,FUR-FU-10003553,Furniture,82.524,3,0.6
+680,US-2017-119438,20-1-2014,2014,15-11-2016,Standard Class,CD-11980 Carol Darley,Consumer,United States,Tyler,Texas,75701,Central,OFF-BI-10004632,Office Supplies,182.994,3,0.8
+681,CA-2016-164511,20-1-2014,2014,15-11-2016,Standard Class,DJ-13630 Doug Jacobs,Consumer,United States,New York City,New York,10024,East,OFF-BI-10003305,Office Supplies,14.352,3,0.2
+682,CA-2016-164511,20-1-2014,2014,15-11-2016,Standard Class,DJ-13630 Doug Jacobs,Consumer,United States,New York City,New York,10024,East,OFF-ST-10002583,Office Supplies,64.96,2,0
+683,CA-2016-164511,29-9-2014,2014,15-11-2016,Standard Class,DJ-13630 Doug Jacobs,Consumer,United States,New York City,New York,10024,East,OFF-ST-10004507,Office Supplies,68.6,4,0
+684,US-2017-168116,29-9-2014,2014,14-5-2015,Same Day,GT-14635 Grant Thornton,Corporate,United States,Burlington,North Carolina,27217,South,TEC-MA-10004125,Technology,7999.98,4,0.5
+685,US-2017-168116,29-9-2014,2014,21-12-2014,Same Day,GT-14635 Grant Thornton,Corporate,United States,Burlington,North Carolina,27217,South,OFF-AP-10002457,Office Supplies,167.44,2,0.2
+686,CA-2014-157784,29-9-2014,2014,21-12-2014,First Class,MC-17845 Michael Chen,Consumer,United States,Jackson,Mississippi,39212,South,TEC-AC-10003911,Technology,479.97,3,0
+687,CA-2014-157784,29-9-2014,2014,21-12-2014,First Class,MC-17845 Michael Chen,Consumer,United States,Jackson,Mississippi,39212,South,OFF-LA-10001934,Office Supplies,14.62,2,0
+690,US-2014-117135,20-12-2014,2014,25-4-2014,Second Class,NP-18325 Naresj Patel,Consumer,United States,Waynesboro,Virginia,22980,South,FUR-FU-10004071,Furniture,104.01,1,0
+691,US-2014-117135,20-12-2014,2014,26-10-2015,Second Class,NP-18325 Naresj Patel,Consumer,United States,Waynesboro,Virginia,22980,South,TEC-PH-10002033,Technology,284.82,1,0
+692,US-2014-117135,20-12-2014,2014,25-8-2015,Second Class,NP-18325 Naresj Patel,Consumer,United States,Waynesboro,Virginia,22980,South,OFF-ST-10002444,Office Supplies,36.84,3,0
+693,CA-2015-131534,20-12-2014,2014,30-12-2014,Standard Class,AB-10165 Alan Barnes,Consumer,United States,Los Angeles,California,90036,West,TEC-AC-10002253,Technology,166.24,1,0
+696,CA-2015-119291,21-4-2014,2014,25-6-2014,First Class,JO-15550 Jesus Ocampo,Home Office,United States,Chester,Pennsylvania,19013,East,OFF-LA-10002312,Office Supplies,47.36,4,0.2
+700,CA-2015-119291,27-12-2014,2014,30-11-2014,First Class,JO-15550 Jesus Ocampo,Home Office,United States,Chester,Pennsylvania,19013,East,OFF-BI-10001575,Office Supplies,18.588,2,0.7
+702,CA-2017-114552,21-6-2014,2014,30-11-2014,Standard Class,Dl-13600 Dorris liebe,Corporate,United States,Cleveland,Ohio,44105,East,FUR-FU-10002960,Furniture,15.072,3,0.2
+703,CA-2016-163755,21-6-2014,2014,28-2-2017,Second Class,AS-10285 Alejandro Savely,Corporate,United States,Seattle,Washington,98103,West,FUR-FU-10003394,Furniture,209.88,3,0
+706,CA-2014-138527,24-11-2014,2014,28-2-2017,Standard Class,BN-11470 Brad Norvell,Corporate,United States,Cary,North Carolina,27511,South,OFF-AP-10001469,Office Supplies,166.84,5,0.2
+707,CA-2014-138527,24-11-2014,2014,28-2-2017,Standard Class,BN-11470 Brad Norvell,Corporate,United States,Cary,North Carolina,27511,South,TEC-AC-10002399,Technology,15.216,1,0.2
+708,CA-2014-112158,24-11-2014,2014,15-9-2015,First Class,DP-13165 David Philippe,Consumer,United States,New York City,New York,10035,East,TEC-AC-10003628,Technology,119.96,4,0
+709,CA-2014-112158,24-11-2014,2014,15-9-2015,First Class,DP-13165 David Philippe,Consumer,United States,New York City,New York,10035,East,FUR-BO-10003272,Furniture,883.92,5,0.2
+750,CA-2017-126074,24-12-2014,2014,14-3-2017,Standard Class,RF-19735 Roland Fjeld,Consumer,United States,Trenton,Michigan,48183,Central,OFF-BI-10003638,Office Supplies,58.05,3,0
+751,CA-2017-126074,24-12-2014,2014,14-3-2017,Standard Class,RF-19735 Roland Fjeld,Consumer,United States,Trenton,Michigan,48183,Central,FUR-FU-10003577,Furniture,157.74,11,0
+783,US-2015-157014,28-9-2014,2014,23-12-2016,Second Class,BM-11785 Bryan Mills,Consumer,United States,Columbus,Ohio,43229,East,TEC-AC-10002167,Technology,24,2,0.2
+784,US-2015-157014,27-5-2014,2014,23-12-2016,Second Class,BM-11785 Bryan Mills,Consumer,United States,Columbus,Ohio,43229,East,FUR-BO-10004409,Furniture,35.49,1,0.5
+789,CA-2015-115938,16-2-2014,2014,18-10-2017,Standard Class,SA-20830 Sue Ann Reed,Consumer,United States,Richmond,Virginia,23223,South,OFF-BI-10001543,Office Supplies,143.96,4,0
+790,CA-2015-115938,16-2-2014,2014,27-5-2016,Standard Class,SA-20830 Sue Ann Reed,Consumer,United States,Richmond,Virginia,23223,South,OFF-ST-10001321,Office Supplies,15.42,1,0
+797,CA-2015-124653,17-3-2014,2014,24-3-2014,First Class,DB-13120 David Bremer,Corporate,United States,Rochester,New York,14609,East,OFF-PA-10000176,Office Supplies,132.79,7,0
+798,CA-2015-124653,17-3-2014,2014,24-3-2014,First Class,DB-13120 David Bremer,Corporate,United States,Rochester,New York,14609,East,OFF-PA-10002365,Office Supplies,12.96,2,0
+799,CA-2015-124653,17-3-2014,2014,31-3-2016,First Class,DB-13120 David Bremer,Corporate,United States,Rochester,New York,14609,East,OFF-LA-10002271,Office Supplies,21.56,7,0
+800,CA-2015-101910,17-3-2014,2014,27-4-2017,Standard Class,CD-11920 Carlos Daly,Consumer,United States,Lake Elsinore,California,92530,West,FUR-CH-10002647,Furniture,283.92,5,0.2
+801,CA-2017-105809,17-3-2014,2014,25-10-2017,First Class,HW-14935 Helen Wasserman,Corporate,United States,San Diego,California,92105,West,FUR-FU-10004090,Furniture,22.23,1,0
+804,CA-2016-115504,26-9-2014,2014,28-12-2015,Standard Class,MC-18130 Mike Caudle,Corporate,United States,Monroe,Louisiana,71203,South,OFF-PA-10003953,Office Supplies,12.96,2,0
+818,CA-2014-140858,30-6-2014,2014,31-1-2017,Standard Class,CA-12775 Cynthia Arntzen,Consumer,United States,Philadelphia,Pennsylvania,19140,East,OFF-PA-10000304,Office Supplies,41.472,8,0.2
+836,CA-2016-165316,19-12-2014,2014,27-6-2017,Standard Class,JB-15400 Jennifer Braxton,Corporate,United States,Tampa,Florida,33614,South,TEC-MA-10004002,Technology,265.475,1,0.5
+837,US-2014-115987,19-12-2014,2014,15-10-2015,Second Class,LH-17020 Lisa Hazard,Consumer,United States,Tyler,Texas,75701,Central,OFF-BI-10001071,Office Supplies,51.184,4,0.8
+838,US-2017-156083,19-12-2014,2014,15-10-2015,Standard Class,JL-15175 James Lanier,Home Office,United States,Columbia,Tennessee,38401,South,OFF-PA-10001560,Office Supplies,9.664,2,0.2
+849,CA-2017-107503,23-4-2014,2014,29-11-2016,Standard Class,GA-14725 Guy Armstrong,Consumer,United States,Lorain,Ohio,44052,East,FUR-FU-10003878,Furniture,48.896,4,0.2
+870,CA-2016-158099,27-11-2014,2014,17-11-2016,First Class,PK-18910 Paul Knutson,Home Office,United States,Philadelphia,Pennsylvania,19143,East,OFF-BI-10000545,Office Supplies,1141.47,5,0.7
+871,CA-2016-158099,29-11-2014,2014,20-11-2017,First Class,PK-18910 Paul Knutson,Home Office,United States,Philadelphia,Pennsylvania,19143,East,TEC-PH-10002496,Technology,280.782,3,0.4
+876,CA-2016-116736,17-12-2014,2014,28-11-2017,Standard Class,CC-12430 Chuck Clark,Home Office,United States,Concord,New Hampshire,3301,East,FUR-FU-10004017,Furniture,322.59,3,0
+899,CA-2017-160983,31-12-2014,2014,17-9-2017,Second Class,GB-14530 George Bell,Corporate,United States,Auburn,New York,13021,East,OFF-PA-10002250,Office Supplies,46.96,8,0
+912,CA-2017-137596,23-11-2014,2014,13-4-2016,Standard Class,BE-11335 Bill Eplett,Home Office,United States,Jackson,Michigan,49201,Central,OFF-ST-10003816,Office Supplies,352.38,2,0
+913,CA-2015-133627,23-11-2014,2014,30-6-2017,Standard Class,SC-20050 Sample Company A,Home Office,United States,Norwich,Connecticut,6360,East,FUR-FU-10001935,Furniture,22.2,6,0
+914,CA-2017-102519,23-11-2014,2014,25-3-2015,First Class,BM-11650 Brian Moss,Corporate,United States,Milwaukee,Wisconsin,53209,Central,FUR-FU-10004091,Furniture,46.94,1,0
+915,CA-2017-102519,23-11-2014,2014,30-11-2015,First Class,BM-11650 Brian Moss,Corporate,United States,Milwaukee,Wisconsin,53209,Central,TEC-AC-10001772,Technology,143.73,9,0
+916,US-2014-141215,15-12-2014,2014,30-11-2015,Standard Class,KL-16555 Kelly Lampkin,Corporate,United States,San Antonio,Texas,78207,Central,FUR-TA-10001520,Furniture,99.918,2,0.3
+917,US-2014-141215,15-12-2014,2014,30-11-2017,Standard Class,KL-16555 Kelly Lampkin,Corporate,United States,San Antonio,Texas,78207,Central,FUR-CH-10003379,Furniture,797.944,4,0.3
+924,CA-2015-111164,19-10-2014,2014,27-4-2016,Standard Class,SE-20110 Sanjit Engle,Consumer,United States,New York City,New York,10009,East,OFF-AP-10004487,Office Supplies,406.6,5,0
+938,US-2017-111745,26-5-2014,2014,17-12-2016,First Class,RA-19885 Ruben Ausman,Corporate,United States,Farmington,New Mexico,87401,West,TEC-AC-10003911,Technology,159.99,1,0
+939,CA-2015-148250,26-5-2014,2014,24-4-2016,Standard Class,RP-19270 Rachel Payne,Corporate,United States,Riverside,California,92503,West,OFF-PA-10000289,Office Supplies,12.96,2,0
+940,CA-2015-148250,26-5-2014,2014,24-4-2016,Standard Class,RP-19270 Rachel Payne,Corporate,United States,Riverside,California,92503,West,OFF-AP-10003040,Office Supplies,134.48,4,0
+949,US-2017-110576,26-11-2014,2014,19-3-2016,Standard Class,RB-19795 Ross Baird,Home Office,United States,Philadelphia,Pennsylvania,19120,East,FUR-FU-10000576,Furniture,1007.232,6,0.2
+950,US-2017-110576,26-11-2014,2014,16-8-2015,Standard Class,RB-19795 Ross Baird,Home Office,United States,Philadelphia,Pennsylvania,19120,East,FUR-TA-10004154,Furniture,2065.32,12,0.4
+951,US-2017-110576,26-11-2014,2014,16-8-2015,Standard Class,RB-19795 Ross Baird,Home Office,United States,Philadelphia,Pennsylvania,19120,East,OFF-PA-10000788,Office Supplies,15.552,3,0.2
+956,CA-2017-119305,29-11-2014,2014,15-7-2017,Standard Class,SW-20275 Scott Williamson,Consumer,United States,Jackson,Mississippi,39212,South,OFF-ST-10000604,Office Supplies,173.8,5,0
+962,CA-2015-160059,29-8-2014,2014,30-9-2015,Standard Class,TB-21190 Thomas Brumley,Home Office,United States,Fayetteville,Arkansas,72701,South,OFF-BI-10000145,Office Supplies,6.24,2,0
+963,CA-2016-120859,29-8-2014,2014,25-6-2017,First Class,CV-12805 Cynthia Voltz,Corporate,United States,San Francisco,California,94110,West,OFF-EN-10001335,Office Supplies,21.88,2,0
+990,CA-2017-167899,16-8-2014,2014,24-5-2016,Standard Class,JG-15805 John Grady,Corporate,United States,Auburn,New York,13021,East,OFF-AR-10001988,Office Supplies,17.97,3,0
+1022,CA-2015-124450,28-9-2014,2014,25-12-2015,Standard Class,GT-14710 Greg Tran,Consumer,United States,Washington,District of Columbia,20016,East,FUR-CH-10000309,Furniture,1267.53,3,0
+1023,CA-2015-124450,28-9-2014,2014,20-12-2015,Standard Class,GT-14710 Greg Tran,Consumer,United States,Washington,District of Columbia,20016,East,TEC-MA-10004212,Technology,1379.92,8,0
+1033,CA-2014-163552,25-4-2014,2014,27-11-2015,Standard Class,LA-16780 Laura Armstrong,Corporate,United States,Hackensack,New Jersey,7601,East,OFF-LA-10001175,Office Supplies,14.4,5,0
+1034,CA-2016-109820,25-4-2014,2014,17-10-2017,First Class,AG-10390 Allen Goldenen,Consumer,United States,Cincinnati,Ohio,45231,East,OFF-PA-10000955,Office Supplies,15.696,3,0.2
+1038,CA-2015-127418,22-3-2014,2014,26-3-2014,First Class,JJ-15445 Jennifer Jackson,Consumer,United States,Los Angeles,California,90004,West,OFF-BI-10003707,Office Supplies,36.624,3,0.2
+1039,CA-2017-121818,22-3-2014,2014,29-11-2016,First Class,JH-15430 Jennifer Halladay,Consumer,United States,Burlington,North Carolina,27217,South,OFF-AR-10000203,Office Supplies,23.968,7,0.2
+1042,CA-2016-102981,28-4-2014,2014,28-11-2015,Second Class,MO-17500 Mary O'Rourke,Consumer,United States,New York City,New York,10035,East,TEC-AC-10004761,Technology,31.86,2,0
+1043,CA-2016-102981,28-4-2014,2014,16-11-2016,Second Class,MO-17500 Mary O'Rourke,Consumer,United States,New York City,New York,10035,East,FUR-BO-10001811,Furniture,722.352,3,0.2
+1044,CA-2017-115651,28-4-2014,2014,16-11-2016,First Class,NS-18640 Noel Staavos,Corporate,United States,Chicago,Illinois,60610,Central,OFF-AR-10001130,Office Supplies,8.84,5,0.2
+1045,CA-2017-115651,28-4-2014,2014,13-7-2015,First Class,NS-18640 Noel Staavos,Corporate,United States,Chicago,Illinois,60610,Central,OFF-AP-10000055,Office Supplies,58.464,9,0.8
+1055,CA-2015-110667,30-9-2014,2014,30-8-2017,Standard Class,NF-18595 Nicole Fjeld,Home Office,United States,New York City,New York,10009,East,FUR-FU-10004622,Furniture,108.4,2,0
+1072,CA-2016-152814,25-5-2014,2014,29-5-2014,Standard Class,EH-14005 Erica Hernandez,Home Office,United States,Denver,Colorado,80219,West,OFF-PA-10001970,Office Supplies,29.472,3,0.2
+1073,CA-2017-106943,25-5-2014,2014,29-5-2014,Standard Class,FO-14305 Frank Olsen,Consumer,United States,New York City,New York,10035,East,OFF-BI-10003669,Office Supplies,8.64,2,0.2
+1082,CA-2015-110016,18-5-2014,2014,24-5-2014,Standard Class,BT-11395 Bill Tyler,Corporate,United States,Detroit,Michigan,48227,Central,FUR-CH-10002880,Furniture,1106.91,9,0
+1085,US-2016-143819,21-6-2014,2014,24-6-2014,Standard Class,KD-16270 Karen Daniels,Consumer,United States,Yonkers,New York,10701,East,OFF-ST-10003208,Office Supplies,362.92,2,0
+1095,CA-2015-165085,13-6-2014,2014,25-7-2015,Standard Class,BT-11485 Brad Thomas,Home Office,United States,Clinton,Maryland,20735,East,OFF-AP-10002518,Office Supplies,355.96,2,0
+1104,US-2017-145863,21-7-2014,2014,29-8-2016,Standard Class,RP-19390 Resi Pölking,Consumer,United States,Houston,Texas,77041,Central,OFF-BI-10002049,Office Supplies,2.934,3,0.8
+1105,CA-2016-112340,21-7-2014,2014,25-7-2014,Standard Class,NM-18520 Neoma Murray,Consumer,United States,Riverside,California,92503,West,OFF-PA-10001892,Office Supplies,22.92,3,0
+1106,US-2016-110156,21-7-2014,2014,25-7-2014,Standard Class,EH-13945 Eric Hoffmann,Consumer,United States,Houston,Texas,77041,Central,OFF-ST-10000642,Office Supplies,100.704,6,0.2
+1115,CA-2017-140585,13-5-2014,2014,15-5-2014,Second Class,RA-19915 Russell Applegate,Consumer,United States,Encinitas,California,92024,West,FUR-BO-10002206,Furniture,119.833,1,0.15
+1116,CA-2017-140585,13-5-2014,2014,22-10-2014,Second Class,RA-19915 Russell Applegate,Consumer,United States,Encinitas,California,92024,West,TEC-AC-10003610,Technology,119.98,2,0
+1117,CA-2016-144855,21-10-2014,2014,22-10-2014,Second Class,DL-13495 Dionis Lloyd,Corporate,United States,San Francisco,California,94110,West,OFF-LA-10003766,Office Supplies,6.3,2,0
+1118,CA-2015-142755,21-10-2014,2014,18-3-2014,Standard Class,CS-12355 Christine Sundaresam,Consumer,United States,Roswell,Georgia,30076,South,OFF-PA-10001970,Office Supplies,279.9,5,0
+1119,CA-2015-142755,14-3-2014,2014,18-3-2014,Standard Class,CS-12355 Christine Sundaresam,Consumer,United States,Roswell,Georgia,30076,South,TEC-AC-10002049,Technology,619.95,5,0
+1120,CA-2015-142755,14-3-2014,2014,24-12-2017,Standard Class,CS-12355 Christine Sundaresam,Consumer,United States,Roswell,Georgia,30076,South,OFF-PA-10000141,Office Supplies,4.36,2,0
+1124,US-2014-147627,29-8-2014,2014,22-10-2017,Standard Class,HL-15040 Hunter Lopez,Consumer,United States,Jonesboro,Arkansas,72401,South,FUR-FU-10003194,Furniture,38.6,4,0
+1125,US-2014-147627,29-8-2014,2014,22-10-2017,Standard Class,HL-15040 Hunter Lopez,Consumer,United States,Jonesboro,Arkansas,72401,South,OFF-AR-10003811,Office Supplies,6.63,3,0
+1126,US-2014-147627,29-8-2014,2014,24-10-2017,Standard Class,HL-15040 Hunter Lopez,Consumer,United States,Jonesboro,Arkansas,72401,South,OFF-EN-10001539,Office Supplies,23.34,3,0
+1137,CA-2016-152170,15-1-2014,2014,18-3-2017,Second Class,FH-14275 Frank Hawley,Corporate,United States,La Porte,Indiana,46350,Central,OFF-EN-10002831,Office Supplies,287.52,8,0
+1161,CA-2017-147039,14-12-2014,2014,20-10-2014,Standard Class,AA-10315 Alex Avila,Consumer,United States,Minneapolis,Minnesota,55407,Central,OFF-BI-10004654,Office Supplies,11.54,2,0
+1162,CA-2014-126522,14-12-2014,2014,14-4-2016,Second Class,LT-16765 Larry Tron,Consumer,United States,Escondido,California,92025,West,OFF-AR-10004042,Office Supplies,53.94,3,0
+1163,CA-2014-127964,14-12-2014,2014,14-4-2016,Standard Class,AP-10720 Anne Pryor,Home Office,United States,New York City,New York,10035,East,TEC-PH-10004700,Technology,9.99,1,0
+1164,CA-2014-127964,18-10-2014,2014,16-12-2015,Standard Class,AP-10720 Anne Pryor,Home Office,United States,New York City,New York,10035,East,OFF-BI-10004593,Office Supplies,125.76,3,0.2
+1165,CA-2014-127964,18-10-2014,2014,27-11-2014,Standard Class,AP-10720 Anne Pryor,Home Office,United States,New York City,New York,10035,East,OFF-BI-10003429,Office Supplies,25.32,5,0.2
+1166,CA-2014-117709,18-10-2014,2014,27-11-2014,Standard Class,PM-18940 Paul MacIntyre,Consumer,United States,Jackson,Michigan,49201,Central,OFF-BI-10001294,Office Supplies,46.8,4,0
+1170,CA-2017-145226,25-11-2014,2014,13-11-2015,Second Class,DL-13315 Delfina Latchford,Consumer,United States,New York City,New York,10035,East,OFF-PA-10003172,Office Supplies,19.44,3,0
+1171,CA-2017-145226,25-11-2014,2014,13-11-2015,Second Class,DL-13315 Delfina Latchford,Consumer,United States,New York City,New York,10035,East,OFF-ST-10002352,Office Supplies,31.92,4,0
+1172,US-2014-100279,25-11-2014,2014,13-11-2015,Standard Class,SW-20275 Scott Williamson,Consumer,United States,Royal Oak,Michigan,48073,Central,OFF-PA-10002259,Office Supplies,22.38,2,0
+1180,CA-2016-168081,31-12-2014,2014,21-11-2014,Second Class,CA-12055 Cathy Armstrong,Home Office,United States,Houston,Texas,77070,Central,TEC-AC-10003174,Technology,258.696,3,0.2
+1181,CA-2014-128146,31-12-2014,2014,21-11-2014,Standard Class,DB-13060 Dave Brooks,Consumer,United States,Lakewood,New Jersey,8701,East,TEC-PH-10004539,Technology,1322.93,7,0
+1182,CA-2014-128146,15-11-2014,2014,23-9-2016,Standard Class,DB-13060 Dave Brooks,Consumer,United States,Lakewood,New Jersey,8701,East,OFF-AR-10001919,Office Supplies,3.76,2,0
+1183,CA-2017-138779,15-11-2014,2014,23-9-2016,First Class,RB-19570 Rob Beeghly,Consumer,United States,Jacksonville,North Carolina,28540,South,OFF-EN-10002504,Office Supplies,21.744,1,0.2
+1184,CA-2017-138779,15-11-2014,2014,23-9-2016,First Class,RB-19570 Rob Beeghly,Consumer,United States,Jacksonville,North Carolina,28540,South,TEC-PH-10003655,Technology,7.92,5,0.2
+1211,CA-2016-137050,17-8-2014,2014,21-7-2016,Second Class,SW-20755 Steven Ward,Corporate,United States,New York City,New York,10009,East,OFF-BI-10001031,Office Supplies,8.544,2,0.2
+1219,US-2017-118087,31-10-2014,2014,13-7-2015,Standard Class,SP-20620 Stefania Perrino,Corporate,United States,Philadelphia,Pennsylvania,19134,East,TEC-AC-10003174,Technology,258.696,3,0.2
+1220,US-2017-118087,31-10-2014,2014,25-12-2017,Standard Class,SP-20620 Stefania Perrino,Corporate,United States,Philadelphia,Pennsylvania,19134,East,TEC-PH-10002200,Technology,1931.958,7,0.4
+1221,CA-2014-110184,31-10-2014,2014,25-12-2017,Standard Class,BF-11170 Ben Ferrer,Home Office,United States,Los Angeles,California,90036,West,OFF-ST-10000107,Office Supplies,249.75,9,0
+1222,CA-2014-110184,31-10-2014,2014,25-12-2017,Standard Class,BF-11170 Ben Ferrer,Home Office,United States,Los Angeles,California,90036,West,TEC-PH-10000439,Technology,255.936,8,0.2
+1223,CA-2016-126004,31-10-2014,2014,25-12-2017,First Class,BM-11140 Becky Martin,Consumer,United States,New York City,New York,10024,East,FUR-FU-10001602,Furniture,113.79,3,0
+1224,CA-2016-126004,31-10-2014,2014,19-4-2015,First Class,BM-11140 Becky Martin,Consumer,United States,New York City,New York,10024,East,TEC-AC-10001432,Technology,78.15,1,0
+1225,CA-2016-126004,31-10-2014,2014,19-4-2015,First Class,BM-11140 Becky Martin,Consumer,United States,New York City,New York,10024,East,OFF-BI-10004656,Office Supplies,1.728,1,0.2
+1226,CA-2016-126004,31-10-2014,2014,23-7-2016,First Class,BM-11140 Becky Martin,Consumer,United States,New York City,New York,10024,East,OFF-PA-10001685,Office Supplies,40.56,4,0
+1227,CA-2016-126004,31-10-2014,2014,25-11-2017,First Class,BM-11140 Becky Martin,Consumer,United States,New York City,New York,10024,East,OFF-ST-10001418,Office Supplies,182.94,3,0
+1237,CA-2016-144344,23-11-2014,2014,28-6-2016,Same Day,PG-18820 Patrick Gardner,Consumer,United States,Boynton Beach,Florida,33437,South,FUR-FU-10003268,Furniture,63.968,2,0.2
+1246,CA-2014-168494,17-11-2014,2014,20-5-2016,Second Class,NP-18700 Nora Preis,Consumer,United States,Fresno,California,93727,West,FUR-TA-10004619,Furniture,764.688,6,0.2
+1252,CA-2017-115602,18-7-2014,2014,28-3-2017,Standard Class,DJ-13630 Doug Jacobs,Consumer,United States,New York City,New York,10009,East,OFF-AR-10000462,Office Supplies,3.2,2,0
+1255,CA-2017-144638,30-9-2014,2014,31-10-2015,Standard Class,MH-18115 Mick Hernandez,Home Office,United States,Chester,Pennsylvania,19013,East,TEC-PH-10000149,Technology,35.91,3,0.4
+1256,CA-2017-144638,26-9-2014,2014,31-10-2015,Standard Class,MH-18115 Mick Hernandez,Home Office,United States,Chester,Pennsylvania,19013,East,FUR-FU-10003724,Furniture,6.696,1,0.2
+1271,US-2016-103646,23-6-2014,2014,28-6-2014,Standard Class,SP-20545 Sibella Parks,Corporate,United States,Chicago,Illinois,60623,Central,OFF-ST-10000563,Office Supplies,102.336,4,0.2
+1272,US-2016-103646,20-5-2014,2014,22-5-2014,Standard Class,SP-20545 Sibella Parks,Corporate,United States,Chicago,Illinois,60623,Central,OFF-AP-10004487,Office Supplies,48.792,3,0.8
+1273,US-2016-103646,20-5-2014,2014,22-5-2014,Standard Class,SP-20545 Sibella Parks,Corporate,United States,Chicago,Illinois,60623,Central,OFF-BI-10002854,Office Supplies,44.848,8,0.8
+1274,CA-2016-119186,20-5-2014,2014,22-5-2014,Same Day,MS-17710 Maurice Satty,Consumer,United States,Fort Worth,Texas,76106,Central,OFF-PA-10004621,Office Supplies,10.368,2,0.2
+1287,CA-2015-124268,24-11-2014,2014,24-6-2014,Standard Class,AD-10180 Alan Dominguez,Home Office,United States,New York City,New York,10035,East,OFF-AR-10004817,Office Supplies,15.48,3,0
+1292,CA-2016-163384,22-6-2014,2014,19-10-2016,First Class,CC-12430 Chuck Clark,Home Office,United States,San Francisco,California,94122,West,OFF-PA-10003172,Office Supplies,32.4,5,0
+1293,CA-2015-101707,22-6-2014,2014,19-10-2016,Standard Class,PF-19165 Philip Fox,Consumer,United States,San Diego,California,92105,West,OFF-SU-10001218,Office Supplies,32.94,3,0
+1314,US-2016-134488,28-11-2014,2014,20-7-2014,Standard Class,PK-19075 Pete Kriz,Consumer,United States,Columbus,Ohio,43229,East,FUR-CH-10003199,Furniture,155.372,2,0.3
+1318,CA-2017-157651,14-7-2014,2014,16-11-2014,Standard Class,HA-14920 Helen Andreada,Consumer,United States,Philadelphia,Pennsylvania,19120,East,TEC-AC-10003116,Technology,14.2,1,0.2
+1319,CA-2014-160773,14-7-2014,2014,30-11-2016,Standard Class,LW-16825 Laurel Workman,Corporate,United States,Deltona,Florida,32725,South,TEC-PH-10004586,Technology,575.92,2,0.2
+1321,CA-2017-167703,14-11-2014,2014,25-9-2014,Standard Class,MC-17575 Matt Collins,Consumer,United States,Cincinnati,Ohio,45231,East,OFF-BI-10002071,Office Supplies,5.229,3,0.7
+1322,CA-2017-167703,14-11-2014,2014,21-3-2016,Standard Class,MC-17575 Matt Collins,Consumer,United States,Cincinnati,Ohio,45231,East,OFF-ST-10001490,Office Supplies,285.552,2,0.2
+1325,CA-2014-107153,20-9-2014,2014,17-9-2015,Standard Class,GZ-14545 George Zrebassa,Corporate,United States,Lawrence,Massachusetts,1841,East,OFF-ST-10001321,Office Supplies,46.26,3,0
+1333,CA-2014-122567,31-3-2014,2014,25-11-2017,Standard Class,MN-17935 Michael Nguyen,Consumer,United States,Dallas,Texas,75220,Central,OFF-BI-10002012,Office Supplies,1.08,3,0.8
+1334,CA-2014-122567,31-3-2014,2014,25-11-2017,Standard Class,MN-17935 Michael Nguyen,Consumer,United States,Dallas,Texas,75220,Central,OFF-AP-10001303,Office Supplies,7.96,2,0.8
+1369,CA-2017-133249,27-6-2014,2014,25-7-2017,First Class,SZ-20035 Sam Zeldin,Home Office,United States,Pico Rivera,California,90660,West,FUR-FU-10001588,Furniture,145.9,5,0
+1370,US-2015-103471,27-6-2014,2014,25-7-2017,Standard Class,JR-15670 Jim Radford,Consumer,United States,Colorado Springs,Colorado,80906,West,FUR-BO-10002613,Furniture,590.058,7,0.7
+1371,US-2015-103471,27-6-2014,2014,25-7-2017,Standard Class,JR-15670 Jim Radford,Consumer,United States,Colorado Springs,Colorado,80906,West,OFF-AR-10003405,Office Supplies,14.04,3,0.2
+1380,CA-2014-126361,14-11-2014,2014,26-9-2016,Second Class,VD-21670 Valerie Dominguez,Consumer,United States,Pleasant Grove,Utah,84062,West,OFF-ST-10002289,Office Supplies,158.9,5,0
+1381,CA-2014-126361,14-11-2014,2014,25-3-2017,Second Class,VD-21670 Valerie Dominguez,Consumer,United States,Pleasant Grove,Utah,84062,West,OFF-BI-10002852,Office Supplies,13.184,1,0.2
+1407,US-2014-118486,30-9-2014,2014,21-8-2014,First Class,SD-20485 Shirley Daniels,Home Office,United States,Philadelphia,Pennsylvania,19143,East,TEC-AC-10004659,Technology,116.784,2,0.2
+1408,CA-2016-130407,23-8-2014,2014,26-3-2017,Standard Class,KD-16270 Karen Daniels,Consumer,United States,New York City,New York,10024,East,OFF-AR-10002240,Office Supplies,75.48,2,0
+1409,CA-2016-130407,23-8-2014,2014,26-3-2017,Standard Class,KD-16270 Karen Daniels,Consumer,United States,New York City,New York,10024,East,FUR-FU-10001967,Furniture,39.98,2,0
+1410,US-2016-122245,19-8-2014,2014,26-3-2017,Standard Class,AB-10105 Adrian Barton,Consumer,United States,Phoenix,Arizona,85023,West,FUR-TA-10002356,Furniture,393.165,3,0.5
+1411,CA-2017-105144,31-12-2014,2014,26-3-2017,Standard Class,SZ-20035 Sam Zeldin,Home Office,United States,Grand Prairie,Texas,75051,Central,OFF-LA-10003923,Office Supplies,23.68,2,0.2
+1412,CA-2016-136329,31-12-2014,2014,26-3-2017,Standard Class,JD-15895 Jonathan Doherty,Corporate,United States,New York City,New York,10035,East,FUR-CH-10002335,Furniture,408.006,2,0.1
+1413,CA-2016-136329,26-7-2014,2014,15-12-2015,Standard Class,JD-15895 Jonathan Doherty,Corporate,United States,New York City,New York,10035,East,FUR-FU-10000723,Furniture,165.28,4,0
+1422,CA-2015-124800,17-3-2014,2014,15-9-2017,Standard Class,RW-19540 Rick Wilson,Corporate,United States,Mesa,Arizona,85204,West,OFF-AP-10004980,Office Supplies,60.672,2,0.2
+1423,CA-2015-124800,17-3-2014,2014,25-1-2017,Standard Class,RW-19540 Rick Wilson,Corporate,United States,Mesa,Arizona,85204,West,OFF-BI-10003984,Office Supplies,77.031,9,0.7
+1424,CA-2015-124800,17-3-2014,2014,25-1-2017,Standard Class,RW-19540 Rick Wilson,Corporate,United States,Mesa,Arizona,85204,West,OFF-ST-10000798,Office Supplies,119.904,6,0.2
+1425,CA-2015-124800,17-3-2014,2014,25-3-2017,Standard Class,RW-19540 Rick Wilson,Corporate,United States,Mesa,Arizona,85204,West,TEC-PH-10001750,Technology,263.96,5,0.2
+1426,CA-2015-124800,17-3-2014,2014,16-11-2014,Standard Class,RW-19540 Rick Wilson,Corporate,United States,Mesa,Arizona,85204,West,OFF-ST-10002743,Office Supplies,363.648,4,0.2
+1431,CA-2017-122700,24-11-2014,2014,14-11-2017,Standard Class,LT-17110 Liz Thompson,Consumer,United States,Columbus,Ohio,43229,East,TEC-PH-10003092,Technology,220.752,8,0.4
+1435,US-2016-153129,19-8-2014,2014,30-12-2017,Standard Class,FP-14320 Frank Preis,Consumer,United States,Seattle,Washington,98105,West,OFF-PA-10003673,Office Supplies,33.9,5,0
+1436,CA-2017-106852,19-8-2014,2014,30-12-2017,Standard Class,ST-20530 Shui Tom,Consumer,United States,Parma,Ohio,44134,East,OFF-PA-10001639,Office Supplies,31.104,6,0.2
+1462,US-2016-128902,25-3-2014,2014,22-3-2017,Standard Class,MB-18085 Mick Brown,Consumer,United States,Vineland,New Jersey,8360,East,FUR-TA-10001095,Furniture,244.006,2,0.3
+1466,CA-2014-151708,18-11-2014,2014,13-7-2015,Standard Class,MB-17305 Maria Bertelson,Consumer,United States,Glendale,Arizona,85301,West,FUR-FU-10001602,Furniture,121.376,4,0.2
+1467,CA-2014-151708,18-11-2014,2014,28-1-2016,Standard Class,MB-17305 Maria Bertelson,Consumer,United States,Glendale,Arizona,85301,West,TEC-AC-10001767,Technology,95.976,3,0.2
+1491,CA-2017-151911,13-9-2014,2014,19-4-2015,Second Class,DL-13495 Dionis Lloyd,Corporate,United States,New York City,New York,10024,East,OFF-EN-10002986,Office Supplies,62.96,4,0
+1499,CA-2016-141586,13-12-2014,2014,21-10-2016,First Class,NK-18490 Neil Knudson,Home Office,United States,San Francisco,California,94122,West,OFF-BI-10003981,Office Supplies,18.16,5,0.2
+1500,CA-2017-130386,19-11-2014,2014,21-10-2016,Standard Class,NG-18430 Nathan Gelder,Consumer,United States,Austin,Texas,78745,Central,OFF-PA-10002749,Office Supplies,16.056,3,0.2
+1501,CA-2017-130386,16-6-2014,2014,29-10-2014,Standard Class,NG-18430 Nathan Gelder,Consumer,United States,Austin,Texas,78745,Central,OFF-PA-10003823,Office Supplies,223.056,9,0.2
+1510,CA-2017-103611,25-7-2014,2014,16-7-2015,First Class,JM-15535 Jessica Myrick,Consumer,United States,Los Angeles,California,90036,West,FUR-FU-10004270,Furniture,8.36,2,0
+1511,CA-2017-100384,25-7-2014,2014,16-7-2015,Standard Class,NH-18610 Nicole Hansen,Corporate,United States,Pomona,California,91767,West,OFF-AR-10002135,Office Supplies,385.6,8,0
+1512,CA-2017-100384,25-7-2014,2014,14-9-2016,Standard Class,NH-18610 Nicole Hansen,Corporate,United States,Pomona,California,91767,West,OFF-AR-10003514,Office Supplies,35.82,9,0
+1515,CA-2017-112809,15-11-2014,2014,20-4-2017,Standard Class,RA-19915 Russell Applegate,Consumer,United States,Dallas,Texas,75220,Central,OFF-BI-10001636,Office Supplies,6.744,4,0.8
+1522,CA-2015-144806,24-10-2014,2014,18-9-2016,Standard Class,GH-14425 Gary Hwang,Consumer,United States,Tucson,Arizona,85705,West,FUR-FU-10002253,Furniture,206.112,6,0.2
+1523,CA-2015-144806,17-8-2014,2014,20-8-2016,Standard Class,GH-14425 Gary Hwang,Consumer,United States,Tucson,Arizona,85705,West,OFF-PA-10002586,Office Supplies,19.92,5,0.2
+1524,CA-2015-144806,17-8-2014,2014,30-9-2015,Standard Class,GH-14425 Gary Hwang,Consumer,United States,Tucson,Arizona,85705,West,OFF-PA-10003039,Office Supplies,198.272,8,0.2
+1525,CA-2015-144806,17-8-2014,2014,14-10-2016,Standard Class,GH-14425 Gary Hwang,Consumer,United States,Tucson,Arizona,85705,West,OFF-ST-10004804,Office Supplies,247.104,6,0.2
+1526,CA-2015-144806,17-8-2014,2014,30-3-2015,Standard Class,GH-14425 Gary Hwang,Consumer,United States,Tucson,Arizona,85705,West,OFF-AR-10004042,Office Supplies,86.304,6,0.2
+1534,CA-2016-139885,26-9-2014,2014,21-7-2017,Standard Class,EB-13840 Ellis Ballard,Corporate,United States,New York City,New York,10035,East,OFF-ST-10003324,Office Supplies,212.88,6,0
+1558,CA-2016-109176,22-11-2014,2014,29-4-2017,Standard Class,JW-16075 Julia West,Consumer,United States,Philadelphia,Pennsylvania,19140,East,OFF-AR-10001955,Office Supplies,79.36,5,0.2
+1559,CA-2015-112116,22-11-2014,2014,21-12-2014,Second Class,JE-15475 Jeremy Ellison,Consumer,United States,Seattle,Washington,98103,West,FUR-TA-10001039,Furniture,171.96,2,0
+1560,CA-2016-126809,22-11-2014,2014,30-11-2014,Standard Class,EB-13750 Edward Becker,Corporate,United States,Seattle,Washington,98103,West,OFF-BI-10003712,Office Supplies,35.352,9,0.2
+1561,CA-2014-105172,22-11-2014,2014,30-11-2014,Standard Class,PK-18910 Paul Knutson,Home Office,United States,San Francisco,California,94109,West,OFF-LA-10001641,Office Supplies,18.9,6,0
+1562,CA-2017-107293,26-1-2014,2014,30-11-2014,First Class,CS-12400 Christopher Schild,Home Office,United States,Seattle,Washington,98115,West,OFF-AR-10003732,Office Supplies,2.78,1,0
+1563,US-2017-102890,26-1-2014,2014,30-11-2014,Same Day,SG-20470 Sheri Gordon,Consumer,United States,New York City,New York,10011,East,FUR-TA-10000577,Furniture,1044.63,5,0.4
+1564,CA-2015-158554,26-1-2014,2014,30-11-2014,Same Day,CM-12190 Charlotte Melton,Consumer,United States,Philadelphia,Pennsylvania,19134,East,OFF-PA-10004000,Office Supplies,11.352,3,0.2
+1565,CA-2014-116239,26-1-2014,2014,30-11-2014,Same Day,CL-12565 Clay Ludtke,Consumer,United States,Columbia,South Carolina,29203,South,OFF-ST-10001370,Office Supplies,354.9,5,0
+1566,CA-2015-132101,26-1-2014,2014,26-12-2017,Standard Class,JO-15550 Jesus Ocampo,Home Office,United States,Seattle,Washington,98105,West,TEC-PH-10004539,Technology,453.576,3,0.2
+1567,CA-2015-129112,26-1-2014,2014,26-12-2017,First Class,AW-10840 Anthony Witt,Consumer,United States,Allen,Texas,75002,Central,TEC-AC-10003038,Technology,21.48,3,0.2
+1568,CA-2015-129112,26-1-2014,2014,26-12-2017,First Class,AW-10840 Anthony Witt,Consumer,United States,Allen,Texas,75002,Central,OFF-BI-10000088,Office Supplies,8.784,4,0.8
+1580,CA-2015-131338,16-12-2014,2014,20-5-2017,First Class,NP-18325 Naresj Patel,Consumer,United States,New York City,New York,10024,East,TEC-PH-10003012,Technology,307.98,2,0
+1581,CA-2015-131338,25-11-2014,2014,19-8-2015,First Class,NP-18325 Naresj Patel,Consumer,United States,New York City,New York,10024,East,FUR-TA-10002607,Furniture,382.806,9,0.4
+1582,CA-2015-131338,25-11-2014,2014,18-6-2017,First Class,NP-18325 Naresj Patel,Consumer,United States,New York City,New York,10024,East,OFF-ST-10000642,Office Supplies,41.96,2,0
+1583,CA-2015-131338,25-11-2014,2014,18-6-2017,First Class,NP-18325 Naresj Patel,Consumer,United States,New York City,New York,10024,East,OFF-BI-10000545,Office Supplies,1217.568,2,0.2
+1584,CA-2015-131338,25-11-2014,2014,18-6-2017,First Class,NP-18325 Naresj Patel,Consumer,United States,New York City,New York,10024,East,FUR-FU-10002157,Furniture,47.04,3,0
+1585,CA-2015-131338,25-11-2014,2014,18-6-2017,First Class,NP-18325 Naresj Patel,Consumer,United States,New York City,New York,10024,East,FUR-FU-10001706,Furniture,6.16,2,0
+1586,CA-2015-131338,25-11-2014,2014,25-2-2015,First Class,NP-18325 Naresj Patel,Consumer,United States,New York City,New York,10024,East,TEC-PH-10000984,Technology,979.95,5,0
+1588,CA-2015-131338,26-4-2014,2014,21-4-2016,First Class,NP-18325 Naresj Patel,Consumer,United States,New York City,New York,10024,East,OFF-FA-10000992,Office Supplies,10.65,3,0
+1589,CA-2015-131338,26-4-2014,2014,21-4-2016,First Class,NP-18325 Naresj Patel,Consumer,United States,New York City,New York,10024,East,TEC-AC-10002600,Technology,247.8,4,0
+1626,CA-2015-157084,21-6-2014,2014,13-9-2014,Standard Class,JG-15160 James Galang,Consumer,United States,Los Angeles,California,90049,West,TEC-AC-10002049,Technology,1265.85,3,0
+1627,CA-2015-164539,21-6-2014,2014,27-12-2017,Standard Class,PO-19180 Philisse Overcash,Home Office,United States,New York City,New York,10011,East,OFF-AP-10002457,Office Supplies,523.25,5,0
+1634,CA-2016-106530,30-6-2014,2014,19-2-2017,Same Day,CL-12565 Clay Ludtke,Consumer,United States,Cleveland,Ohio,44105,East,OFF-ST-10000649,Office Supplies,25.12,2,0.2
+1638,CA-2014-168984,15-10-2014,2014,19-11-2015,Standard Class,NW-18400 Natalie Webber,Consumer,United States,Tigard,Oregon,97224,West,TEC-PH-10000038,Technology,438.336,4,0.2
+1639,CA-2016-157266,18-3-2014,2014,19-11-2015,Standard Class,TB-21280 Toby Braunhardt,Consumer,United States,Washington,District of Columbia,20016,East,OFF-PA-10002689,Office Supplies,19.44,3,0
+1640,CA-2016-157266,18-3-2014,2014,19-11-2015,Standard Class,TB-21280 Toby Braunhardt,Consumer,United States,Washington,District of Columbia,20016,East,OFF-BI-10004728,Office Supplies,9.64,2,0
+1641,CA-2016-157266,18-3-2014,2014,18-4-2017,Standard Class,TB-21280 Toby Braunhardt,Consumer,United States,Washington,District of Columbia,20016,East,OFF-PA-10004675,Office Supplies,12.7,2,0
+1642,CA-2016-157266,18-3-2014,2014,18-4-2017,Standard Class,TB-21280 Toby Braunhardt,Consumer,United States,Washington,District of Columbia,20016,East,FUR-FU-10000629,Furniture,41.37,3,0
+1643,US-2014-134712,18-3-2014,2014,27-2-2016,Standard Class,BS-11380 Bill Stewart,Corporate,United States,Skokie,Illinois,60076,Central,OFF-FA-10003112,Office Supplies,12.624,2,0.2
+1644,CA-2015-111829,18-3-2014,2014,25-6-2015,First Class,FH-14365 Fred Hopkins,Corporate,United States,Seattle,Washington,98115,West,OFF-ST-10000142,Office Supplies,1247.64,3,0
+1645,CA-2015-111829,18-3-2014,2014,25-6-2015,First Class,FH-14365 Fred Hopkins,Corporate,United States,Seattle,Washington,98115,West,TEC-CO-10001766,Technology,3149.93,7,0
+1646,CA-2015-111829,24-5-2014,2014,17-5-2014,First Class,FH-14365 Fred Hopkins,Corporate,United States,Seattle,Washington,98115,West,OFF-PA-10004359,Office Supplies,209.7,2,0
+1653,US-2017-132444,25-4-2014,2014,21-4-2015,First Class,CD-12280 Christina DeMoss,Consumer,United States,Seattle,Washington,98105,West,OFF-ST-10003442,Office Supplies,169.68,6,0
+1673,CA-2017-111647,26-5-2014,2014,15-10-2016,Standard Class,RD-19585 Rob Dowd,Consumer,United States,Plano,Texas,75023,Central,TEC-PH-10002726,Technology,167.968,4,0.2
+1679,CA-2014-122882,26-5-2014,2014,17-4-2014,Standard Class,SB-20290 Sean Braxton,Corporate,United States,Philadelphia,Pennsylvania,19134,East,OFF-ST-10002344,Office Supplies,64.784,1,0.2
+1694,US-2016-158708,21-9-2014,2014,18-11-2015,Second Class,AB-10255 Alejandro Ballentine,Home Office,United States,Plano,Texas,75023,Central,TEC-AC-10003133,Technology,13.616,2,0.2
+1695,CA-2015-156335,21-9-2014,2014,18-11-2015,Second Class,PO-19195 Phillina Ober,Home Office,United States,Bayonne,New Jersey,7002,East,TEC-AC-10002006,Technology,63.96,4,0
+1696,CA-2015-156335,21-9-2014,2014,18-11-2015,Second Class,PO-19195 Phillina Ober,Home Office,United States,Bayonne,New Jersey,7002,East,OFF-BI-10003314,Office Supplies,14.46,3,0
+1713,CA-2015-145401,25-9-2014,2014,27-3-2017,Standard Class,JP-15520 Jeremy Pistek,Consumer,United States,Houston,Texas,77070,Central,OFF-PA-10004405,Office Supplies,14.304,6,0.2
+1714,US-2017-124968,25-9-2014,2014,22-5-2017,Second Class,MM-18055 Michelle Moray,Consumer,United States,Chicago,Illinois,60610,Central,FUR-TA-10004289,Furniture,765.625,7,0.5
+1715,CA-2017-104003,25-9-2014,2014,31-12-2016,Standard Class,DC-13285 Debra Catini,Consumer,United States,San Francisco,California,94110,West,FUR-BO-10003965,Furniture,307.666,2,0.15
+1716,CA-2016-154788,25-9-2014,2014,20-11-2017,Standard Class,JL-15835 John Lee,Consumer,United States,New York City,New York,10011,East,OFF-BI-10003314,Office Supplies,7.712,2,0.2
+1722,US-2015-123218,14-3-2014,2014,21-3-2016,Standard Class,KD-16345 Katherine Ducich,Consumer,United States,Chicago,Illinois,60623,Central,TEC-PH-10001061,Technology,159.984,2,0.2
+1744,CA-2017-152807,22-3-2014,2014,19-1-2016,Standard Class,MC-18100 Mick Crebagga,Consumer,United States,Philadelphia,Pennsylvania,19140,East,OFF-ST-10002486,Office Supplies,11.168,2,0.2
+1745,CA-2017-152807,22-3-2014,2014,19-1-2016,Standard Class,MC-18100 Mick Crebagga,Consumer,United States,Philadelphia,Pennsylvania,19140,East,TEC-AC-10001142,Technology,442.4,7,0.2
+1756,CA-2015-135622,21-2-2014,2014,29-10-2017,Second Class,TT-21460 Tonja Turnell,Home Office,United States,Fort Worth,Texas,76106,Central,OFF-PA-10000100,Office Supplies,360.712,11,0.2
+1762,CA-2015-130785,29-4-2014,2014,15-9-2017,Standard Class,AG-10900 Arthur Gainer,Consumer,United States,San Diego,California,92105,West,OFF-BI-10001900,Office Supplies,28.752,6,0.2
+1763,CA-2015-130785,29-4-2014,2014,17-6-2016,Standard Class,AG-10900 Arthur Gainer,Consumer,United States,San Diego,California,92105,West,FUR-BO-10003159,Furniture,293.199,3,0.15
+1768,US-2014-158057,30-3-2014,2014,21-6-2014,Standard Class,CC-12685 Craig Carroll,Consumer,United States,Greensboro,North Carolina,27405,South,OFF-BI-10004410,Office Supplies,7.644,4,0.7
+1772,CA-2016-129686,26-9-2014,2014,30-8-2017,Second Class,GG-14650 Greg Guthrie,Corporate,United States,Chicago,Illinois,60623,Central,OFF-ST-10004337,Office Supplies,97.984,2,0.2
+1774,CA-2014-118976,16-6-2014,2014,23-11-2016,Standard Class,MY-18295 Muhammed Yedwab,Corporate,United States,Baltimore,Maryland,21215,East,OFF-BI-10001628,Office Supplies,20.86,2,0
+1775,CA-2014-118976,16-6-2014,2014,23-11-2016,Standard Class,MY-18295 Muhammed Yedwab,Corporate,United States,Baltimore,Maryland,21215,East,OFF-ST-10000877,Office Supplies,497.61,9,0
+1776,CA-2014-118976,16-6-2014,2014,30-1-2017,Standard Class,MY-18295 Muhammed Yedwab,Corporate,United States,Baltimore,Maryland,21215,East,OFF-AR-10004752,Office Supplies,5.34,2,0
+1783,CA-2015-111094,28-6-2014,2014,24-11-2017,Standard Class,CB-12535 Claudia Bergmann,Corporate,United States,Franklin,Massachusetts,2038,East,OFF-BI-10001597,Office Supplies,122.94,3,0
+1804,CA-2017-158379,27-12-2014,2014,30-5-2016,Second Class,JA-15970 Joseph Airdo,Consumer,United States,Philadelphia,Pennsylvania,19134,East,OFF-SU-10002881,Office Supplies,4663.736,7,0.2
+1805,CA-2017-158379,27-12-2014,2014,30-5-2016,Second Class,JA-15970 Joseph Airdo,Consumer,United States,Philadelphia,Pennsylvania,19134,East,TEC-AC-10002926,Technology,79.984,2,0.2
+1807,US-2016-116729,13-1-2014,2014,26-2-2016,First Class,GK-14620 Grace Kelly,Corporate,United States,Los Angeles,California,90049,West,OFF-PA-10002005,Office Supplies,45.36,7,0
+1815,CA-2015-131597,14-7-2014,2014,25-6-2014,Standard Class,SP-20620 Stefania Perrino,Corporate,United States,Los Angeles,California,90045,West,FUR-TA-10002607,Furniture,170.136,3,0.2
+1816,CA-2015-164833,21-6-2014,2014,25-6-2014,Same Day,LL-16840 Lauren Leatherbury,Consumer,United States,Seattle,Washington,98105,West,OFF-LA-10000443,Office Supplies,7.38,2,0
+1817,CA-2015-164833,21-6-2014,2014,25-6-2014,Same Day,LL-16840 Lauren Leatherbury,Consumer,United States,Seattle,Washington,98105,West,OFF-AR-10004685,Office Supplies,9.26,2,0
+1818,CA-2015-125423,21-6-2014,2014,25-6-2014,Second Class,MC-17575 Matt Collins,Consumer,United States,Los Angeles,California,90036,West,OFF-LA-10001771,Office Supplies,9.96,2,0
+1819,US-2014-130379,21-6-2014,2014,23-12-2017,Standard Class,JL-15235 Janet Lee,Consumer,United States,Chicago,Illinois,60623,Central,OFF-AP-10001394,Office Supplies,75.6,2,0.8
+1820,US-2014-130379,21-6-2014,2014,21-5-2014,Standard Class,JL-15235 Janet Lee,Consumer,United States,Chicago,Illinois,60623,Central,FUR-FU-10002553,Furniture,29.32,2,0.6
+1821,CA-2016-168956,21-6-2014,2014,15-10-2017,Standard Class,EA-14035 Erin Ashbrook,Corporate,United States,Chicago,Illinois,60623,Central,OFF-AP-10004233,Office Supplies,92.064,6,0.8
+1823,CA-2016-168956,17-5-2014,2014,29-7-2016,Standard Class,EA-14035 Erin Ashbrook,Corporate,United States,Chicago,Illinois,60623,Central,FUR-CH-10004754,Furniture,62.958,3,0.3
+1825,CA-2016-167507,24-10-2014,2014,23-4-2017,Standard Class,SA-20830 Sue Ann Reed,Consumer,United States,Redmond,Oregon,97756,West,OFF-BI-10003694,Office Supplies,31.32,10,0.7
+1838,CA-2014-117345,24-8-2014,2014,13-11-2015,Standard Class,BF-10975 Barbara Fisher,Corporate,United States,Charlotte,North Carolina,28205,South,OFF-LA-10000240,Office Supplies,17.544,3,0.2
+1846,US-2017-158512,30-9-2014,2014,26-11-2016,Second Class,DA-13450 Dianna Arnett,Home Office,United States,Washington,District of Columbia,20016,East,OFF-PA-10001804,Office Supplies,40.08,6,0
+1860,CA-2015-121608,17-11-2014,2014,29-11-2015,First Class,JB-15400 Jennifer Braxton,Corporate,United States,Bristol,Connecticut,6010,East,TEC-PH-10004959,Technology,100.49,1,0
+1861,US-2017-121251,17-11-2014,2014,18-3-2017,First Class,GM-14440 Gary McGarr,Consumer,United States,New York City,New York,10009,East,FUR-BO-10001918,Furniture,257.568,2,0.2
+1862,US-2017-121251,17-11-2014,2014,18-3-2017,First Class,GM-14440 Gary McGarr,Consumer,United States,New York City,New York,10009,East,TEC-PH-10004896,Technology,119.96,4,0
+1863,CA-2014-151078,20-7-2014,2014,18-3-2017,Same Day,RF-19840 Roy Französisch,Consumer,United States,San Antonio,Texas,78207,Central,OFF-ST-10001328,Office Supplies,49.632,4,0.2
+1864,US-2016-100839,20-7-2014,2014,18-3-2017,Standard Class,NC-18625 Noah Childs,Corporate,United States,Aurora,Colorado,80013,West,FUR-TA-10004575,Furniture,727.45,5,0.5
+1865,US-2016-100839,20-7-2014,2014,18-3-2017,Standard Class,NC-18625 Noah Childs,Corporate,United States,Aurora,Colorado,80013,West,FUR-FU-10001617,Furniture,24.96,3,0.2
+1866,US-2017-116659,21-5-2014,2014,30-11-2017,Same Day,NG-18355 Nat Gilpin,Corporate,United States,Newark,Ohio,43055,East,TEC-PH-10002824,Technology,370.782,3,0.4
+1869,CA-2015-127110,28-1-2014,2014,22-11-2014,Standard Class,CH-12070 Cathy Hwang,Home Office,United States,Philadelphia,Pennsylvania,19143,East,OFF-ST-10002554,Office Supplies,78.256,2,0.2
+1895,US-2017-108063,16-12-2014,2014,30-8-2016,First Class,AS-10090 Adam Shillingsburg,Consumer,United States,Charlottesville,Virginia,22901,South,OFF-AR-10001446,Office Supplies,34.65,3,0
+1896,CA-2015-109197,16-12-2014,2014,30-8-2016,Standard Class,JO-15280 Jas O'Carroll,Consumer,United States,Missoula,Montana,59801,West,OFF-BI-10004632,Office Supplies,487.984,2,0.2
+1897,CA-2017-141789,16-12-2014,2014,30-8-2016,First Class,AC-10450 Amy Cox,Consumer,United States,Minneapolis,Minnesota,55407,Central,OFF-BI-10001359,Office Supplies,1793.98,2,0
+1898,CA-2014-169775,16-12-2014,2014,30-8-2016,Second Class,RA-19945 Ryan Akin,Consumer,United States,Miami,Florida,33178,South,OFF-EN-10001749,Office Supplies,29.808,2,0.2
+1899,CA-2014-169775,24-8-2014,2014,30-8-2016,Second Class,RA-19945 Ryan Akin,Consumer,United States,Miami,Florida,33178,South,OFF-BI-10004390,Office Supplies,505.176,4,0.7
+1900,CA-2014-169775,24-8-2014,2014,17-12-2014,Second Class,RA-19945 Ryan Akin,Consumer,United States,Miami,Florida,33178,South,FUR-TA-10001857,Furniture,174.0585,3,0.45
+1904,CA-2017-167094,30-6-2014,2014,26-8-2014,First Class,DK-12835 Damala Kotsonis,Corporate,United States,Springfield,Oregon,97477,West,FUR-CH-10000155,Furniture,478.48,2,0.2
+1905,CA-2017-167094,20-12-2014,2014,26-8-2014,First Class,DK-12835 Damala Kotsonis,Corporate,United States,Springfield,Oregon,97477,West,TEC-AC-10003116,Technology,28.4,2,0.2
+1915,CA-2017-124597,21-9-2014,2014,13-2-2017,Standard Class,AS-10630 Ann Steele,Home Office,United States,Boynton Beach,Florida,33437,South,OFF-LA-10003190,Office Supplies,4.608,2,0.2
+1916,CA-2017-124597,21-9-2014,2014,13-2-2017,Standard Class,AS-10630 Ann Steele,Home Office,United States,Boynton Beach,Florida,33437,South,OFF-AR-10002280,Office Supplies,15.528,3,0.2
+1917,CA-2017-124597,21-9-2014,2014,25-12-2014,Standard Class,AS-10630 Ann Steele,Home Office,United States,Boynton Beach,Florida,33437,South,OFF-LA-10001569,Office Supplies,11.952,3,0.2
+1918,CA-2015-105634,21-9-2014,2014,18-12-2015,Standard Class,HA-14905 Helen Abelman,Consumer,United States,Franklin,Massachusetts,2038,East,OFF-AR-10001573,Office Supplies,11.65,5,0
+1919,CA-2015-123673,21-9-2014,2014,18-12-2015,Second Class,CH-12070 Cathy Hwang,Home Office,United States,Detroit,Michigan,48227,Central,TEC-PH-10001809,Technology,299.9,2,0
+1920,US-2017-111423,21-9-2014,2014,18-12-2015,First Class,EH-13765 Edward Hooks,Corporate,United States,Watertown,New York,13601,East,OFF-BI-10003091,Office Supplies,895.92,5,0.2
+1935,CA-2017-101245,18-5-2014,2014,26-12-2017,Standard Class,LW-16990 Lindsay Williams,Corporate,United States,San Francisco,California,94109,West,OFF-PA-10003129,Office Supplies,244.55,5,0
+1936,CA-2017-101245,18-5-2014,2014,28-3-2016,Standard Class,LW-16990 Lindsay Williams,Corporate,United States,San Francisco,California,94109,West,TEC-AC-10001284,Technology,166.16,8,0
+1939,CA-2016-112109,23-12-2014,2014,18-11-2017,Standard Class,JE-15715 Joe Elijah,Consumer,United States,Broomfield,Colorado,80020,West,OFF-ST-10001505,Office Supplies,33.488,7,0.2
+1942,CA-2017-144064,13-5-2014,2014,17-3-2017,First Class,CP-12085 Cathy Prescott,Corporate,United States,Quincy,Illinois,62301,Central,OFF-LA-10004544,Office Supplies,47.36,4,0.2
+1959,CA-2017-110905,14-11-2014,2014,27-9-2017,Second Class,RW-19690 Robert Waldorf,Consumer,United States,Springfield,Missouri,65807,Central,OFF-BI-10003669,Office Supplies,16.2,3,0
+1960,CA-2017-110905,17-11-2014,2014,28-12-2014,Second Class,RW-19690 Robert Waldorf,Consumer,United States,Springfield,Missouri,65807,Central,OFF-AP-10004785,Office Supplies,33.99,3,0
+1961,CA-2017-110905,17-11-2014,2014,17-5-2014,Second Class,RW-19690 Robert Waldorf,Consumer,United States,Springfield,Missouri,65807,Central,TEC-AC-10003023,Technology,296.85,5,0
+1962,CA-2017-110905,17-11-2014,2014,16-11-2017,Second Class,RW-19690 Robert Waldorf,Consumer,United States,Springfield,Missouri,65807,Central,TEC-AC-10002217,Technology,112.8,6,0
+1963,CA-2017-110905,22-5-2014,2014,16-11-2017,Second Class,RW-19690 Robert Waldorf,Consumer,United States,Springfield,Missouri,65807,Central,OFF-BI-10002954,Office Supplies,13.71,3,0
+1964,CA-2017-110905,22-5-2014,2014,16-8-2014,Second Class,RW-19690 Robert Waldorf,Consumer,United States,Springfield,Missouri,65807,Central,OFF-PA-10002586,Office Supplies,24.9,5,0
+1965,CA-2017-110905,15-7-2014,2014,22-4-2017,Second Class,RW-19690 Robert Waldorf,Consumer,United States,Springfield,Missouri,65807,Central,OFF-ST-10000025,Office Supplies,286.29,3,0
+1966,CA-2017-110905,15-7-2014,2014,22-4-2017,Second Class,RW-19690 Robert Waldorf,Consumer,United States,Springfield,Missouri,65807,Central,OFF-AP-10003281,Office Supplies,24.18,2,0
+1968,CA-2017-165841,17-9-2014,2014,27-4-2016,Standard Class,DB-13210 Dean Braden,Consumer,United States,Paterson,New Jersey,7501,East,OFF-SU-10000898,Office Supplies,69.5,5,0
+1969,CA-2017-165841,17-9-2014,2014,15-1-2016,Standard Class,DB-13210 Dean Braden,Consumer,United States,Paterson,New Jersey,7501,East,OFF-PA-10001144,Office Supplies,166.44,3,0
+1970,CA-2017-117485,30-9-2014,2014,27-11-2016,Standard Class,BD-11320 Bill Donatelli,Consumer,United States,Tulsa,Oklahoma,74133,Central,TEC-AC-10004659,Technology,291.96,4,0
+1978,CA-2014-110408,26-12-2014,2014,30-10-2017,Second Class,AS-10225 Alan Schoenberger,Corporate,United States,Montgomery,Alabama,36116,South,FUR-CH-10003774,Furniture,545.88,6,0
+1979,CA-2015-109939,26-12-2014,2014,14-7-2016,Standard Class,AA-10375 Allen Armold,Consumer,United States,Salem,Oregon,97301,West,OFF-AR-10000127,Office Supplies,5.248,2,0.2
+1980,CA-2016-112669,15-8-2014,2014,14-7-2016,Same Day,KT-16465 Kean Takahito,Consumer,United States,Glendale,Arizona,85301,West,FUR-CH-10004086,Furniture,933.536,4,0.2
+1984,CA-2014-164721,18-11-2014,2014,17-11-2016,Second Class,LW-16825 Laurel Workman,Corporate,United States,Brentwood,California,94513,West,OFF-AP-10000240,Office Supplies,320.88,6,0
+1985,CA-2014-164721,18-11-2014,2014,15-11-2014,Second Class,LW-16825 Laurel Workman,Corporate,United States,Brentwood,California,94513,West,FUR-FU-10001940,Furniture,23.88,3,0
+1986,CA-2014-164721,18-11-2014,2014,19-11-2014,Second Class,LW-16825 Laurel Workman,Corporate,United States,Brentwood,California,94513,West,OFF-PA-10000575,Office Supplies,26.76,4,0
+1987,CA-2016-147417,18-11-2014,2014,19-11-2014,First Class,CB-12415 Christy Brittain,Consumer,United States,Columbus,Ohio,43229,East,TEC-CO-10001449,Technology,1439.976,4,0.4
+1988,CA-2015-127509,18-11-2014,2014,19-11-2014,Standard Class,AS-10090 Adam Shillingsburg,Consumer,United States,Springfield,Missouri,65807,Central,OFF-BI-10002393,Office Supplies,17.22,3,0
+1989,CA-2015-127509,30-12-2014,2014,15-10-2014,Standard Class,AS-10090 Adam Shillingsburg,Consumer,United States,Springfield,Missouri,65807,Central,FUR-TA-10002855,Furniture,1024.38,7,0
+1990,CA-2015-127509,30-12-2014,2014,15-10-2014,Standard Class,AS-10090 Adam Shillingsburg,Consumer,United States,Springfield,Missouri,65807,Central,OFF-EN-10000781,Office Supplies,26.22,3,0
+1991,CA-2015-127509,30-12-2014,2014,29-5-2014,Standard Class,AS-10090 Adam Shillingsburg,Consumer,United States,Springfield,Missouri,65807,Central,OFF-PA-10002160,Office Supplies,17.34,3,0
+1992,CA-2017-111374,30-12-2014,2014,29-5-2014,Standard Class,CB-12415 Christy Brittain,Consumer,United States,Philadelphia,Pennsylvania,19134,East,OFF-BI-10004970,Office Supplies,4.956,4,0.7
+1993,CA-2017-133648,30-12-2014,2014,19-7-2014,Standard Class,ML-17755 Max Ludwig,Home Office,United States,Springfield,Oregon,97477,West,OFF-LA-10003923,Office Supplies,71.04,6,0.2
+1996,US-2017-147221,27-9-2014,2014,16-2-2015,Second Class,JS-16030 Joy Smith,Consumer,United States,Houston,Texas,77036,Central,OFF-AP-10002534,Office Supplies,294.62,5,0.8
+1997,US-2017-147221,27-9-2014,2014,24-9-2014,Second Class,JS-16030 Joy Smith,Consumer,United States,Houston,Texas,77036,Central,FUR-FU-10004020,Furniture,8.752,4,0.6
+2000,CA-2014-131905,20-12-2014,2014,25-2-2017,First Class,ND-18460 Neil Ducich,Corporate,United States,Chesapeake,Virginia,23320,South,TEC-PH-10001615,Technology,144.95,5,0
+2001,CA-2017-166128,20-12-2014,2014,25-2-2017,Standard Class,LW-17215 Luke Weiss,Consumer,United States,Pasadena,California,91104,West,TEC-AC-10001767,Technology,199.95,5,0
+2002,CA-2017-166128,20-12-2014,2014,15-12-2015,Standard Class,LW-17215 Luke Weiss,Consumer,United States,Pasadena,California,91104,West,OFF-AR-10001221,Office Supplies,41.86,7,0
+2024,CA-2016-168354,23-9-2014,2014,25-12-2014,First Class,RH-19510 Rick Huthwaite,Home Office,United States,Providence,Rhode Island,2908,East,FUR-CH-10004675,Furniture,872.32,4,0
+2025,US-2017-111241,23-9-2014,2014,25-12-2014,Second Class,GM-14500 Gene McClure,Consumer,United States,Fresno,California,93727,West,OFF-BI-10002867,Office Supplies,239.12,5,0.2
+2026,CA-2015-114237,19-7-2014,2014,25-12-2014,First Class,MC-17275 Marc Crier,Consumer,United States,Seattle,Washington,98103,West,FUR-BO-10004409,Furniture,141.96,2,0
+2027,CA-2016-113516,19-7-2014,2014,27-7-2015,Second Class,VM-21685 Valerie Mitchum,Home Office,United States,Lancaster,California,93534,West,OFF-BI-10002225,Office Supplies,33.024,2,0.2
+2028,CA-2016-113516,19-7-2014,2014,27-7-2015,Second Class,VM-21685 Valerie Mitchum,Home Office,United States,Lancaster,California,93534,West,OFF-BI-10001989,Office Supplies,67.136,4,0.2
+2029,CA-2015-117961,19-7-2014,2014,15-11-2014,Standard Class,GP-14740 Guy Phonely,Corporate,United States,Leominster,Massachusetts,1453,East,OFF-BI-10000343,Office Supplies,14.73,3,0
+2033,CA-2016-128923,31-1-2014,2014,15-11-2014,Standard Class,GB-14530 George Bell,Corporate,United States,Fort Worth,Texas,76106,Central,OFF-PA-10002250,Office Supplies,9.392,2,0.2
+2044,US-2017-158946,22-11-2014,2014,22-8-2017,Standard Class,JW-15220 Jane Waco,Corporate,United States,Lakewood,Ohio,44107,East,OFF-AR-10001860,Office Supplies,38.864,7,0.2
+2045,CA-2014-129168,21-11-2014,2014,22-8-2017,Standard Class,KB-16585 Ken Black,Corporate,United States,Houston,Texas,77095,Central,OFF-PA-10001639,Office Supplies,15.552,3,0.2
+2046,CA-2016-131835,21-11-2014,2014,20-8-2015,Standard Class,MC-17590 Matt Collister,Corporate,United States,Perth Amboy,New Jersey,8861,East,OFF-AP-10004487,Office Supplies,162.64,2,0
+2047,CA-2016-131835,21-11-2014,2014,21-8-2016,Standard Class,MC-17590 Matt Collister,Corporate,United States,Perth Amboy,New Jersey,8861,East,TEC-PH-10001760,Technology,597,3,0
+2048,CA-2016-131835,21-11-2014,2014,31-12-2016,Standard Class,MC-17590 Matt Collister,Corporate,United States,Perth Amboy,New Jersey,8861,East,OFF-PA-10004071,Office Supplies,55.48,1,0
+2051,CA-2015-142237,23-4-2014,2014,24-7-2014,First Class,CK-12595 Clytie Kelty,Consumer,United States,Philadelphia,Pennsylvania,19134,East,OFF-BI-10003669,Office Supplies,6.48,4,0.7
+2052,CA-2015-142237,23-4-2014,2014,24-7-2014,First Class,CK-12595 Clytie Kelty,Consumer,United States,Philadelphia,Pennsylvania,19134,East,FUR-CH-10003833,Furniture,341.488,8,0.3
+2053,CA-2015-142237,23-4-2014,2014,24-7-2014,First Class,CK-12595 Clytie Kelty,Consumer,United States,Philadelphia,Pennsylvania,19134,East,OFF-AR-10003732,Office Supplies,11.12,5,0.2
+2054,CA-2015-142237,23-4-2014,2014,24-7-2014,First Class,CK-12595 Clytie Kelty,Consumer,United States,Philadelphia,Pennsylvania,19134,East,FUR-FU-10003142,Furniture,25.344,6,0.2
+2079,CA-2017-140676,16-3-2014,2014,27-4-2014,First Class,BF-11080 Bart Folk,Consumer,United States,Baltimore,Maryland,21215,East,OFF-PA-10004243,Office Supplies,94.85,5,0
+2091,CA-2017-166142,31-8-2014,2014,29-9-2015,Standard Class,MM-17260 Magdelene Morse,Consumer,United States,Wilmington,Delaware,19805,East,OFF-BI-10004094,Office Supplies,26.55,3,0
+2092,CA-2017-166142,27-8-2014,2014,29-9-2015,Standard Class,MM-17260 Magdelene Morse,Consumer,United States,Wilmington,Delaware,19805,East,FUR-TA-10004607,Furniture,310.443,3,0.3
+2093,CA-2014-145926,27-8-2014,2014,30-10-2017,Standard Class,MP-17470 Mark Packer,Home Office,United States,Moorhead,Minnesota,56560,Central,FUR-CH-10004289,Furniture,479.9,5,0
+2094,CA-2015-149678,27-8-2014,2014,30-10-2017,Second Class,AW-10840 Anthony Witt,Consumer,United States,Farmington,New Mexico,87401,West,OFF-SU-10004498,Office Supplies,12.88,1,0
+2104,CA-2017-167101,20-6-2014,2014,14-9-2014,Second Class,BM-11650 Brian Moss,Corporate,United States,New York City,New York,10009,East,OFF-PA-10000357,Office Supplies,221.92,4,0
+2105,CA-2017-167101,20-6-2014,2014,14-9-2014,Second Class,BM-11650 Brian Moss,Corporate,United States,New York City,New York,10009,East,TEC-AC-10001266,Technology,26,2,0
+2106,US-2014-167633,20-6-2014,2014,21-3-2014,Standard Class,BW-11200 Ben Wallace,Consumer,United States,Boynton Beach,Florida,33437,South,OFF-PA-10004888,Office Supplies,15.552,3,0.2
+2107,US-2014-152723,20-6-2014,2014,14-7-2015,Same Day,HG-14965 Henry Goldwyn,Corporate,United States,Mesquite,Texas,75150,Central,OFF-BI-10003460,Office Supplies,0.876,1,0.8
+2108,CA-2015-164882,20-6-2014,2014,27-2-2016,Same Day,SG-20080 Sandra Glassco,Consumer,United States,Redlands,California,92374,West,OFF-PA-10000157,Office Supplies,19.98,1,0
+2109,CA-2015-164882,20-6-2014,2014,18-9-2017,Same Day,SG-20080 Sandra Glassco,Consumer,United States,Redlands,California,92374,West,OFF-BI-10004519,Office Supplies,398.352,3,0.2
+2110,CA-2015-164882,20-6-2014,2014,18-9-2017,Same Day,SG-20080 Sandra Glassco,Consumer,United States,Redlands,California,92374,West,OFF-AR-10004272,Office Supplies,5.04,3,0
+2120,CA-2017-155460,18-4-2014,2014,17-11-2017,First Class,RW-19630 Rob Williams,Corporate,United States,Seattle,Washington,98105,West,OFF-BI-10003091,Office Supplies,895.92,5,0.2
+2121,US-2017-168690,18-4-2014,2014,17-11-2017,Standard Class,TS-21085 Thais Sissman,Consumer,United States,Ormond Beach,Florida,32174,South,OFF-BI-10000145,Office Supplies,2.808,3,0.7
+2122,CA-2017-158246,18-4-2014,2014,30-11-2016,First Class,JB-15400 Jennifer Braxton,Corporate,United States,Sunnyvale,California,94086,West,FUR-CH-10003061,Furniture,215.976,3,0.2
+2123,CA-2017-167381,18-4-2014,2014,30-11-2016,Second Class,EH-14005 Erica Hernandez,Home Office,United States,Lansing,Michigan,48911,Central,FUR-BO-10001972,Furniture,241.96,2,0
+2138,CA-2015-156377,23-3-2014,2014,20-12-2016,Standard Class,TB-21625 Trudy Brown,Consumer,United States,Grand Prairie,Texas,75051,Central,OFF-BI-10002954,Office Supplies,3.656,4,0.8
+2139,US-2017-157896,23-3-2014,2014,24-6-2014,Same Day,CB-12415 Christy Brittain,Consumer,United States,New York City,New York,10009,East,OFF-PA-10004092,Office Supplies,146.82,3,0
+2149,CA-2014-141607,13-12-2014,2014,25-11-2016,Standard Class,WB-21850 William Brown,Consumer,United States,Concord,California,94521,West,FUR-FU-10003975,Furniture,43.31,1,0
+2151,US-2017-139969,17-11-2014,2014,28-11-2016,Standard Class,AF-10870 Art Ferguson,Consumer,United States,College Station,Texas,77840,Central,FUR-CH-10001973,Furniture,233.058,3,0.3
+2152,CA-2014-167360,17-11-2014,2014,15-12-2017,Second Class,RB-19435 Richard Bierner,Consumer,United States,Saint Louis,Missouri,63116,Central,TEC-AC-10001772,Technology,111.79,7,0
+2156,CA-2016-111115,23-9-2014,2014,23-9-2015,Second Class,LB-16735 Larry Blacks,Consumer,United States,Los Angeles,California,90032,West,OFF-FA-10000624,Office Supplies,21.48,6,0
+2157,CA-2014-124646,28-4-2014,2014,23-5-2016,First Class,DV-13465 Dianna Vittorini,Consumer,United States,Minneapolis,Minnesota,55407,Central,OFF-ST-10001097,Office Supplies,501.81,3,0
+2158,CA-2014-124646,28-4-2014,2014,28-5-2016,First Class,DV-13465 Dianna Vittorini,Consumer,United States,Minneapolis,Minnesota,55407,Central,OFF-ST-10001469,Office Supplies,161.94,3,0
+2159,CA-2017-148166,28-4-2014,2014,23-4-2014,Standard Class,NK-18490 Neil Knudson,Home Office,United States,Deltona,Florida,32725,South,OFF-AR-10004956,Office Supplies,17.856,4,0.2
+2165,CA-2016-154018,14-9-2014,2014,20-9-2016,Standard Class,HA-14920 Helen Andreada,Consumer,United States,Laredo,Texas,78041,Central,OFF-PA-10000551,Office Supplies,8.288,2,0.2
+2166,CA-2016-154018,14-9-2014,2014,20-9-2016,Standard Class,HA-14920 Helen Andreada,Consumer,United States,Laredo,Texas,78041,Central,FUR-FU-10003394,Furniture,139.92,5,0.6
+2173,CA-2014-152296,20-12-2014,2014,14-9-2016,First Class,IL-15100 Ivan Liston,Consumer,United States,San Francisco,California,94122,West,OFF-BI-10004506,Office Supplies,19.752,3,0.2
+2174,CA-2016-112025,20-12-2014,2014,24-3-2015,Standard Class,LS-16975 Lindsay Shagiari,Home Office,United States,Houston,Texas,77070,Central,OFF-BI-10002353,Office Supplies,9.264,3,0.8
+2175,CA-2015-132507,20-12-2014,2014,29-7-2016,Second Class,CC-12610 Corey Catlett,Corporate,United States,Houston,Texas,77041,Central,OFF-ST-10000943,Office Supplies,61.792,4,0.2
+2176,CA-2016-125738,20-12-2014,2014,29-7-2016,Standard Class,PB-18805 Patrick Bzostek,Home Office,United States,Salt Lake City,Utah,84106,West,OFF-PA-10000740,Office Supplies,45.68,2,0
+2177,CA-2016-125738,25-7-2014,2014,29-7-2016,Standard Class,PB-18805 Patrick Bzostek,Home Office,United States,Salt Lake City,Utah,84106,West,OFF-PA-10003001,Office Supplies,60.12,9,0
+2178,CA-2016-125738,25-7-2014,2014,16-12-2015,Standard Class,PB-18805 Patrick Bzostek,Home Office,United States,Salt Lake City,Utah,84106,West,OFF-BI-10001628,Office Supplies,41.72,5,0.2
+2195,CA-2016-128412,13-9-2014,2014,24-11-2014,Standard Class,AP-10915 Arthur Prichep,Consumer,United States,Seattle,Washington,98105,West,OFF-AP-10000252,Office Supplies,35.1,3,0
+2203,CA-2015-138002,23-11-2014,2014,21-11-2017,Standard Class,BT-11305 Beth Thompson,Home Office,United States,Seattle,Washington,98103,West,OFF-BI-10002160,Office Supplies,6.096,2,0.2
+2204,CA-2015-138002,23-11-2014,2014,29-9-2016,Standard Class,BT-11305 Beth Thompson,Home Office,United States,Seattle,Washington,98103,West,FUR-FU-10004748,Furniture,191.82,3,0
+2205,CA-2015-128860,23-11-2014,2014,29-9-2016,Standard Class,SC-20725 Steven Cartwright,Consumer,United States,Lancaster,Pennsylvania,17602,East,FUR-FU-10001473,Furniture,20.104,1,0.2
+2217,CA-2017-129378,30-12-2014,2014,14-11-2016,First Class,NS-18505 Neola Schneider,Consumer,United States,San Jose,California,95123,West,FUR-CH-10000553,Furniture,108.608,4,0.2
+2229,CA-2016-139157,24-10-2014,2014,27-7-2014,Standard Class,GM-14680 Greg Matthias,Consumer,United States,New York City,New York,10024,East,FUR-TA-10003238,Furniture,330.588,1,0.4
+2249,CA-2015-116092,16-12-2014,2014,14-7-2015,Second Class,JM-16195 Justin MacKendrick,Consumer,United States,Los Angeles,California,90004,West,OFF-BI-10001628,Office Supplies,41.72,5,0.2
+2250,CA-2015-116092,16-12-2014,2014,14-7-2015,Second Class,JM-16195 Justin MacKendrick,Consumer,United States,Los Angeles,California,90004,West,OFF-BI-10000546,Office Supplies,11.52,5,0.2
+2254,CA-2015-169201,16-11-2014,2014,14-7-2015,First Class,HG-14965 Henry Goldwyn,Corporate,United States,San Francisco,California,94110,West,OFF-AP-10000696,Office Supplies,43.26,3,0
+2264,CA-2016-131065,27-1-2014,2014,17-9-2014,Second Class,AA-10375 Allen Armold,Consumer,United States,Atlanta,Georgia,30318,South,TEC-AC-10004145,Technology,499.98,2,0
+2265,CA-2016-131065,27-1-2014,2014,18-11-2017,Second Class,AA-10375 Allen Armold,Consumer,United States,Atlanta,Georgia,30318,South,OFF-PA-10002479,Office Supplies,5.28,1,0
+2266,CA-2016-131065,27-1-2014,2014,29-12-2017,Second Class,AA-10375 Allen Armold,Consumer,United States,Atlanta,Georgia,30318,South,OFF-BI-10004970,Office Supplies,8.26,2,0
+2282,CA-2017-142622,24-11-2014,2014,23-9-2016,First Class,JK-15625 Jim Karlsson,Consumer,United States,Seattle,Washington,98115,West,FUR-BO-10004467,Furniture,199.98,2,0
+2283,CA-2016-132143,24-11-2014,2014,24-12-2016,First Class,FM-14215 Filia McAdams,Corporate,United States,Middletown,Connecticut,6457,East,OFF-PA-10002713,Office Supplies,48.16,7,0
+2284,CA-2015-153108,26-7-2014,2014,24-12-2016,Standard Class,SF-20200 Sarah Foster,Consumer,United States,New Castle,Indiana,47362,Central,TEC-PH-10001552,Technology,23.92,2,0
+2285,CA-2015-153108,26-7-2014,2014,26-11-2017,Standard Class,SF-20200 Sarah Foster,Consumer,United States,New Castle,Indiana,47362,Central,OFF-AP-10002222,Office Supplies,60.69,7,0
+2286,CA-2016-112676,26-7-2014,2014,23-9-2015,First Class,PJ-18835 Patrick Jones,Corporate,United States,Murfreesboro,Tennessee,37130,South,OFF-PA-10003971,Office Supplies,14.352,3,0.2
+2287,CA-2017-165687,26-7-2014,2014,23-9-2015,Standard Class,CS-12355 Christine Sundaresam,Consumer,United States,Salem,Virginia,24153,South,OFF-AP-10004036,Office Supplies,35.04,2,0
+2288,US-2017-112928,28-10-2014,2014,23-9-2015,Second Class,BB-10990 Barry Blumstein,Corporate,United States,Toledo,Ohio,43615,East,OFF-AP-10002287,Office Supplies,17.48,5,0.2
+2289,CA-2017-143343,28-10-2014,2014,23-9-2015,First Class,BW-11200 Ben Wallace,Consumer,United States,Los Angeles,California,90032,West,OFF-AR-10002375,Office Supplies,16.4,5,0
+2290,CA-2017-115154,28-10-2014,2014,23-9-2015,First Class,RS-19420 Ricardo Sperren,Corporate,United States,Seattle,Washington,98115,West,FUR-TA-10001950,Furniture,892.98,2,0
+2291,CA-2015-149342,28-10-2014,2014,17-3-2016,Standard Class,TS-21160 Theresa Swint,Corporate,United States,Columbus,Georgia,31907,South,TEC-PH-10001557,Technology,287.97,3,0
+2292,CA-2015-149342,28-10-2014,2014,17-3-2016,Standard Class,TS-21160 Theresa Swint,Corporate,United States,Columbus,Georgia,31907,South,FUR-FU-10002937,Furniture,595.38,6,0
+2301,CA-2014-162362,20-12-2014,2014,28-9-2016,Standard Class,JL-15505 Jeremy Lonsdale,Consumer,United States,Midland,Michigan,48640,Central,OFF-BI-10000756,Office Supplies,12.72,3,0
+2306,CA-2016-115574,27-7-2014,2014,29-8-2017,First Class,BP-11185 Ben Peterman,Corporate,United States,Chicago,Illinois,60623,Central,FUR-BO-10003441,Furniture,141.372,2,0.3
+2323,CA-2015-109470,22-11-2014,2014,13-4-2014,Second Class,KC-16255 Karen Carlisle,Corporate,United States,Henderson,Kentucky,42420,South,OFF-BI-10001072,Office Supplies,60.64,4,0
+2336,CA-2017-152695,17-9-2014,2014,20-10-2016,Same Day,CC-12220 Chris Cortes,Consumer,United States,Fairfield,Connecticut,6824,East,OFF-EN-10004030,Office Supplies,10.86,3,0
+2337,CA-2017-152695,17-9-2014,2014,20-10-2016,Same Day,CC-12220 Chris Cortes,Consumer,United States,Fairfield,Connecticut,6824,East,OFF-AP-10000026,Office Supplies,426.79,7,0
+2338,CA-2014-110639,17-9-2014,2014,20-10-2016,Same Day,RH-19495 Rick Hansen,Consumer,United States,New York City,New York,10009,East,OFF-PA-10003936,Office Supplies,25.92,4,0
+2339,CA-2014-110639,17-9-2014,2014,20-10-2016,Same Day,RH-19495 Rick Hansen,Consumer,United States,New York City,New York,10009,East,OFF-PA-10004530,Office Supplies,45.92,4,0
+2359,US-2014-148838,28-11-2014,2014,19-11-2015,Standard Class,CP-12340 Christine Phan,Corporate,United States,New York City,New York,10024,East,FUR-TA-10001950,Furniture,1071.576,4,0.4
+2371,CA-2017-155152,22-11-2014,2014,23-9-2017,Second Class,MP-17965 Michael Paige,Corporate,United States,Warwick,Rhode Island,2886,East,TEC-AC-10004353,Technology,252,4,0
+2378,US-2014-164616,23-12-2014,2014,22-2-2017,Second Class,MS-17770 Maxwell Schwartz,Consumer,United States,Columbus,Ohio,43229,East,OFF-SU-10004768,Office Supplies,9.184,2,0.2
+2379,CA-2015-148628,23-12-2014,2014,22-2-2017,Standard Class,KM-16375 Katherine Murray,Home Office,United States,Thousand Oaks,California,91360,West,OFF-PA-10003883,Office Supplies,32.75,5,0
+2383,US-2017-117534,25-11-2014,2014,27-10-2015,First Class,CV-12295 Christina VanderZanden,Consumer,United States,Fresno,California,93727,West,OFF-AP-10002403,Office Supplies,176.04,4,0
+2396,CA-2015-137897,22-6-2014,2014,14-11-2016,Standard Class,PJ-18835 Patrick Jones,Corporate,United States,New York City,New York,10035,East,TEC-AC-10001267,Technology,59.9,2,0
+2397,CA-2015-137897,22-6-2014,2014,28-11-2014,Standard Class,PJ-18835 Patrick Jones,Corporate,United States,New York City,New York,10035,East,OFF-PA-10004041,Office Supplies,37,5,0
+2398,CA-2017-169264,22-6-2014,2014,20-11-2015,Second Class,NP-18700 Nora Preis,Consumer,United States,San Francisco,California,94109,West,OFF-LA-10001613,Office Supplies,5.76,2,0
+2407,CA-2017-108574,29-12-2014,2014,21-9-2014,Standard Class,MG-18145 Mike Gockenbach,Consumer,United States,Los Angeles,California,90045,West,TEC-PH-10000702,Technology,79.92,10,0.2
+2408,CA-2017-144589,29-12-2014,2014,21-9-2014,Standard Class,TM-21010 Tamara Manning,Consumer,United States,San Francisco,California,94122,West,OFF-AR-10003631,Office Supplies,24.2,5,0
+2409,CA-2017-144589,29-12-2014,2014,21-9-2014,Standard Class,TM-21010 Tamara Manning,Consumer,United States,San Francisco,California,94122,West,TEC-PH-10003072,Technology,359.976,3,0.2
+2410,CA-2017-155985,29-12-2014,2014,17-3-2016,First Class,BE-11335 Bill Eplett,Home Office,United States,San Francisco,California,94122,West,FUR-FU-10000758,Furniture,211.84,8,0
+2411,CA-2014-162684,29-12-2014,2014,17-3-2016,Standard Class,AS-10630 Ann Steele,Home Office,United States,Philadelphia,Pennsylvania,19120,East,OFF-FA-10000992,Office Supplies,5.68,2,0.2
+2412,CA-2015-142041,29-12-2014,2014,17-3-2016,Second Class,EM-13810 Eleni McCrary,Corporate,United States,Los Angeles,California,90036,West,OFF-BI-10004187,Office Supplies,7.52,5,0.2
+2413,CA-2014-151295,29-12-2014,2014,20-6-2015,Standard Class,JA-15970 Joseph Airdo,Consumer,United States,Los Angeles,California,90045,West,OFF-PA-10001947,Office Supplies,11.96,2,0
+2420,CA-2017-159597,29-9-2014,2014,21-5-2016,Standard Class,MC-17590 Matt Collister,Corporate,United States,Coachella,California,92236,West,OFF-ST-10002289,Office Supplies,63.56,2,0
+2421,CA-2017-159597,29-9-2014,2014,23-11-2017,Standard Class,MC-17590 Matt Collister,Corporate,United States,Coachella,California,92236,West,TEC-AC-10004171,Technology,99.99,1,0
+2422,CA-2016-155551,29-9-2014,2014,23-11-2017,Standard Class,CR-12580 Clay Rozendal,Home Office,United States,Elmhurst,Illinois,60126,Central,OFF-ST-10003656,Office Supplies,230.376,3,0.2
+2423,CA-2016-155551,29-9-2014,2014,22-11-2016,Standard Class,CR-12580 Clay Rozendal,Home Office,United States,Elmhurst,Illinois,60126,Central,OFF-PA-10001560,Office Supplies,9.664,2,0.2
+2424,US-2017-147669,29-9-2014,2014,22-11-2016,Standard Class,SV-20935 Susan Vittorini,Consumer,United States,Fairfield,Ohio,45014,East,TEC-AC-10002473,Technology,158.928,7,0.2
+2425,US-2017-147669,29-9-2014,2014,22-11-2016,Standard Class,SV-20935 Susan Vittorini,Consumer,United States,Fairfield,Ohio,45014,East,OFF-BI-10000632,Office Supplies,13.023,1,0.7
+2426,US-2017-147669,24-11-2014,2014,22-11-2016,Standard Class,SV-20935 Susan Vittorini,Consumer,United States,Fairfield,Ohio,45014,East,FUR-TA-10002645,Furniture,273.06,2,0.4
+2430,CA-2016-169922,23-6-2014,2014,24-10-2015,Standard Class,MZ-17515 Mary Zewe,Corporate,United States,Arlington,Texas,76017,Central,FUR-FU-10004415,Furniture,12.544,7,0.6
+2431,CA-2017-100748,23-6-2014,2014,20-2-2017,Standard Class,RB-19795 Ross Baird,Home Office,United States,San Francisco,California,94110,West,OFF-LA-10000240,Office Supplies,58.48,8,0
+2446,CA-2016-146934,19-8-2014,2014,27-11-2014,Standard Class,AF-10870 Art Ferguson,Consumer,United States,Passaic,New Jersey,7055,East,TEC-PH-10001336,Technology,257.98,2,0
+2451,CA-2017-140949,23-9-2014,2014,16-12-2015,Second Class,DB-13405 Denny Blanton,Consumer,United States,New York City,New York,10011,East,OFF-LA-10000081,Office Supplies,18.75,5,0
+2452,CA-2017-140949,23-9-2014,2014,16-12-2015,Second Class,DB-13405 Denny Blanton,Consumer,United States,New York City,New York,10011,East,TEC-PH-10000149,Technology,119.7,6,0
+2453,CA-2017-140949,23-9-2014,2014,22-12-2015,Second Class,DB-13405 Denny Blanton,Consumer,United States,New York City,New York,10011,East,OFF-BI-10000605,Office Supplies,9.144,3,0.2
+2454,CA-2017-140949,23-9-2014,2014,24-11-2017,Second Class,DB-13405 Denny Blanton,Consumer,United States,New York City,New York,10011,East,TEC-AC-10002399,Technology,57.06,3,0
+2470,CA-2017-128755,19-9-2014,2014,13-8-2017,Standard Class,MK-18160 Mike Kennedy,Consumer,United States,Newport News,Virginia,23602,South,OFF-ST-10001291,Office Supplies,16.91,1,0
+2471,US-2016-135923,19-9-2014,2014,13-8-2017,Standard Class,CM-11935 Carlos Meador,Consumer,United States,Fayetteville,North Carolina,28314,South,FUR-FU-10002107,Furniture,14.272,8,0.2
+2473,US-2016-135923,18-11-2014,2014,28-12-2017,Standard Class,CM-11935 Carlos Meador,Consumer,United States,Fayetteville,North Carolina,28314,South,OFF-AP-10000692,Office Supplies,64.864,4,0.2
+2477,CA-2016-114972,19-5-2014,2014,30-9-2016,First Class,PF-19225 Phillip Flathmann,Consumer,United States,Los Angeles,California,90032,West,OFF-AP-10003057,Office Supplies,1101.48,4,0
+2510,CA-2017-163902,31-10-2014,2014,28-9-2014,Standard Class,MY-17380 Maribeth Yedwab,Corporate,United States,Los Angeles,California,90045,West,TEC-AC-10000580,Technology,479.94,6,0
+2511,CA-2016-136812,31-10-2014,2014,28-9-2014,Standard Class,AW-10930 Arthur Wiediger,Home Office,United States,Oklahoma City,Oklahoma,73120,Central,OFF-ST-10003470,Office Supplies,1117.92,4,0
+2512,CA-2015-102722,31-10-2014,2014,28-9-2014,First Class,KW-16570 Kelly Williams,Consumer,United States,Monroe,Louisiana,71203,South,TEC-AC-10003116,Technology,106.5,6,0
+2513,CA-2017-155089,31-10-2014,2014,28-9-2014,Standard Class,DB-12910 Daniel Byrd,Home Office,United States,Tampa,Florida,33614,South,OFF-BI-10002429,Office Supplies,45.66,5,0.7
+2514,CA-2016-124506,31-10-2014,2014,23-6-2017,Standard Class,BB-11545 Brenda Bowman,Corporate,United States,Chicago,Illinois,60623,Central,TEC-AC-10003280,Technology,95.968,4,0.2
+2515,CA-2016-124506,31-10-2014,2014,23-6-2017,Standard Class,BB-11545 Brenda Bowman,Corporate,United States,Chicago,Illinois,60623,Central,FUR-CH-10004540,Furniture,47.992,2,0.3
+2516,CA-2014-106572,31-10-2014,2014,23-6-2017,Standard Class,NP-18700 Nora Preis,Consumer,United States,Bowling Green,Ohio,43402,East,OFF-ST-10000585,Office Supplies,264.32,2,0.2
+2517,CA-2014-128888,30-11-2014,2014,21-12-2017,Standard Class,PB-19105 Peter Bühler,Consumer,United States,Houston,Texas,77095,Central,OFF-EN-10003001,Office Supplies,604.656,9,0.2
+2520,CA-2016-124352,13-12-2014,2014,26-8-2016,Standard Class,CD-12790 Cynthia Delaney,Home Office,United States,Oklahoma City,Oklahoma,73120,Central,OFF-LA-10003223,Office Supplies,29.46,6,0
+2522,CA-2016-124352,21-9-2014,2014,29-11-2015,Standard Class,CD-12790 Cynthia Delaney,Home Office,United States,Oklahoma City,Oklahoma,73120,Central,OFF-PA-10003177,Office Supplies,12.96,2,0
+2523,CA-2016-124352,21-9-2014,2014,29-11-2015,Standard Class,CD-12790 Cynthia Delaney,Home Office,United States,Oklahoma City,Oklahoma,73120,Central,TEC-PH-10003442,Technology,5.5,1,0
+2528,CA-2015-124541,20-9-2014,2014,24-9-2014,Standard Class,TT-21220 Thomas Thornton,Consumer,United States,Houston,Texas,77041,Central,OFF-BI-10004209,Office Supplies,9.648,6,0.8
+2529,CA-2015-124541,20-9-2014,2014,24-9-2014,Standard Class,TT-21220 Thomas Thornton,Consumer,United States,Houston,Texas,77041,Central,OFF-PA-10001526,Office Supplies,7.968,2,0.2
+2530,CA-2014-108707,26-3-2014,2014,25-11-2014,Standard Class,DB-12910 Daniel Byrd,Home Office,United States,Fort Lauderdale,Florida,33311,South,OFF-PA-10000788,Office Supplies,10.368,2,0.2
+2534,CA-2014-111500,19-9-2014,2014,17-6-2016,Standard Class,DJ-13510 Don Jones,Corporate,United States,Little Rock,Arkansas,72209,South,TEC-AC-10000844,Technology,339.96,4,0
+2555,CA-2016-118626,14-11-2014,2014,22-10-2016,Standard Class,JC-15775 John Castell,Consumer,United States,Tallahassee,Florida,32303,South,TEC-PH-10000369,Technology,705.544,7,0.2
+2556,CA-2015-111458,14-11-2014,2014,23-5-2017,Standard Class,PF-19165 Philip Fox,Consumer,United States,New York City,New York,10035,East,TEC-AC-10001590,Technology,50,2,0
+2557,US-2016-126844,20-12-2014,2014,23-5-2017,Standard Class,BW-11110 Bart Watters,Corporate,United States,Houston,Texas,77070,Central,FUR-FU-10004909,Furniture,51.712,8,0.6
+2558,US-2015-112508,20-12-2014,2014,23-5-2017,Standard Class,BP-11185 Ben Peterman,Corporate,United States,Coral Springs,Florida,33065,South,OFF-AP-10002287,Office Supplies,6.992,2,0.2
+2571,CA-2017-134404,22-8-2014,2014,13-6-2017,Same Day,DR-12880 Dan Reichenbach,Corporate,United States,Newark,Ohio,43055,East,OFF-AR-10004441,Office Supplies,13.248,4,0.2
+2572,CA-2017-109778,26-10-2014,2014,17-12-2014,Standard Class,VM-21685 Valerie Mitchum,Home Office,United States,Woodstock,Illinois,60098,Central,OFF-AR-10003759,Office Supplies,2.912,2,0.2
+2573,CA-2016-155845,26-10-2014,2014,16-11-2017,Second Class,CM-12235 Chris McAfee,Consumer,United States,Carrollton,Texas,75007,Central,TEC-AC-10004145,Technology,1399.944,7,0.2
+2580,US-2014-155502,29-12-2014,2014,26-9-2014,Standard Class,SD-20485 Shirley Daniels,Home Office,United States,Alexandria,Virginia,22304,South,OFF-ST-10004337,Office Supplies,489.92,8,0
+2581,US-2014-155502,29-12-2014,2014,30-3-2014,Standard Class,SD-20485 Shirley Daniels,Home Office,United States,Alexandria,Virginia,22304,South,OFF-PA-10003072,Office Supplies,19.44,3,0
+2596,CA-2017-149048,22-3-2014,2014,21-7-2017,Standard Class,BM-11650 Brian Moss,Corporate,United States,Columbus,Indiana,47201,Central,OFF-BI-10004632,Office Supplies,914.97,3,0
+2617,CA-2017-147942,25-4-2014,2014,26-8-2017,Standard Class,MS-17365 Maribeth Schnelling,Consumer,United States,San Francisco,California,94110,West,OFF-LA-10003663,Office Supplies,5.78,2,0
+2618,CA-2017-147942,25-4-2014,2014,26-8-2017,Standard Class,MS-17365 Maribeth Schnelling,Consumer,United States,San Francisco,California,94110,West,OFF-BI-10001294,Office Supplies,121.68,13,0.2
+2619,CA-2017-115931,25-4-2014,2014,26-8-2017,Standard Class,JM-15655 Jim Mitchum,Corporate,United States,Carlsbad,New Mexico,88220,West,OFF-AR-10000369,Office Supplies,4.17,3,0
+2634,US-2017-110604,20-7-2014,2014,27-12-2015,Standard Class,JF-15295 Jason Fortune-,Consumer,United States,Seattle,Washington,98103,West,FUR-CH-10004287,Furniture,220.96,1,0.2
+2635,CA-2015-116750,20-7-2014,2014,27-12-2015,Second Class,BF-10975 Barbara Fisher,Corporate,United States,Fayetteville,North Carolina,28314,South,FUR-FU-10003829,Furniture,4.928,2,0.2
+2644,CA-2016-149111,21-6-2014,2014,25-9-2016,Second Class,BF-11170 Ben Ferrer,Home Office,United States,Raleigh,North Carolina,27604,South,TEC-PH-10003092,Technology,36.792,1,0.2
+2645,CA-2016-149111,21-6-2014,2014,25-9-2016,Second Class,BF-11170 Ben Ferrer,Home Office,United States,Raleigh,North Carolina,27604,South,FUR-FU-10000206,Furniture,18.624,8,0.2
+2646,CA-2014-131002,21-6-2014,2014,29-11-2017,Second Class,TB-21400 Tom Boeckenhauer,Consumer,United States,Tulsa,Oklahoma,74133,Central,FUR-FU-10004270,Furniture,57.69,3,0
+2648,CA-2014-131002,29-11-2014,2014,15-4-2017,Second Class,TB-21400 Tom Boeckenhauer,Consumer,United States,Tulsa,Oklahoma,74133,Central,OFF-PA-10000223,Office Supplies,12.96,2,0
+2649,CA-2014-131002,29-11-2014,2014,15-4-2017,Second Class,TB-21400 Tom Boeckenhauer,Consumer,United States,Tulsa,Oklahoma,74133,Central,FUR-FU-10004665,Furniture,821.88,6,0
+2650,CA-2014-131002,20-12-2014,2014,26-11-2017,Second Class,TB-21400 Tom Boeckenhauer,Consumer,United States,Tulsa,Oklahoma,74133,Central,TEC-PH-10000215,Technology,104.85,3,0
+2651,US-2016-146794,17-12-2014,2014,23-5-2016,Standard Class,SH-19975 Sally Hughsby,Corporate,United States,Hesperia,California,92345,West,FUR-BO-10004467,Furniture,424.9575,5,0.15
+2667,CA-2016-111794,16-11-2014,2014,30-10-2015,Same Day,HG-15025 Hunter Glantz,Consumer,United States,Amarillo,Texas,79109,Central,TEC-AC-10003832,Technology,79.512,3,0.2
+2668,CA-2016-111794,16-11-2014,2014,27-7-2015,Same Day,HG-15025 Hunter Glantz,Consumer,United States,Amarillo,Texas,79109,Central,OFF-PA-10000474,Office Supplies,28.352,1,0.2
+2669,US-2015-139759,16-11-2014,2014,27-7-2015,Standard Class,NL-18310 Nancy Lomonaco,Home Office,United States,Los Angeles,California,90045,West,FUR-CH-10002774,Furniture,40.784,1,0.2
+2670,US-2015-139759,16-11-2014,2014,27-7-2015,Standard Class,NL-18310 Nancy Lomonaco,Home Office,United States,Los Angeles,California,90045,West,OFF-AP-10002765,Office Supplies,105.96,4,0
+2693,US-2016-144211,24-3-2014,2014,19-5-2017,Standard Class,CS-12130 Chad Sievert,Consumer,United States,Englewood,Colorado,80112,West,TEC-PH-10002890,Technology,108.576,3,0.2
+2697,CA-2014-145317,21-11-2014,2014,19-5-2017,Standard Class,SM-20320 Sean Miller,Home Office,United States,Jacksonville,Florida,32216,South,TEC-MA-10003626,Technology,821.3,4,0.5
+2698,CA-2014-145317,30-6-2014,2014,28-9-2017,Standard Class,SM-20320 Sean Miller,Home Office,United States,Jacksonville,Florida,32216,South,TEC-MA-10002412,Technology,22638.48,6,0.5
+2699,CA-2014-145317,30-6-2014,2014,27-3-2017,Standard Class,SM-20320 Sean Miller,Home Office,United States,Jacksonville,Florida,32216,South,OFF-PA-10001804,Office Supplies,21.376,4,0.2
+2700,CA-2014-145317,24-12-2014,2014,14-9-2017,Standard Class,SM-20320 Sean Miller,Home Office,United States,Jacksonville,Florida,32216,South,OFF-AR-10003183,Office Supplies,8.016,3,0.2
+2701,CA-2014-145317,24-12-2014,2014,26-7-2016,Standard Class,SM-20320 Sean Miller,Home Office,United States,Jacksonville,Florida,32216,South,FUR-FU-10004270,Furniture,30.768,2,0.2
+2702,CA-2014-145317,24-12-2014,2014,26-7-2016,Standard Class,SM-20320 Sean Miller,Home Office,United States,Jacksonville,Florida,32216,South,OFF-FA-10003112,Office Supplies,18.936,3,0.2
+2703,CA-2014-145317,24-12-2014,2014,26-7-2016,Standard Class,SM-20320 Sean Miller,Home Office,United States,Jacksonville,Florida,32216,South,FUR-FU-10001986,Furniture,122.352,3,0.2
+2704,CA-2014-143413,24-12-2014,2014,26-7-2016,Standard Class,RP-19390 Resi Pölking,Consumer,United States,Baltimore,Maryland,21215,East,OFF-PA-10002319,Office Supplies,116.28,3,0
+2705,CA-2017-156818,24-12-2014,2014,21-11-2014,Second Class,JD-16015 Joy Daniels,Consumer,United States,New York City,New York,10009,East,TEC-AC-10002323,Technology,132.6,6,0
+2712,CA-2017-132430,20-2-2014,2014,20-3-2017,First Class,CP-12085 Cathy Prescott,Corporate,United States,Lakewood,Ohio,44107,East,FUR-FU-10003577,Furniture,45.888,4,0.2
+2713,CA-2017-146031,20-2-2014,2014,29-9-2017,Second Class,GM-14440 Gary McGarr,Consumer,United States,Troy,New York,12180,East,OFF-AR-10002656,Office Supplies,60.12,9,0
+2727,CA-2017-149888,13-7-2014,2014,16-4-2016,Standard Class,EP-13915 Emily Phan,Consumer,United States,Philadelphia,Pennsylvania,19120,East,FUR-TA-10000849,Furniture,350.352,4,0.4
+2728,CA-2017-119193,27-12-2014,2014,29-12-2014,First Class,SK-19990 Sally Knutson,Consumer,United States,Toledo,Ohio,43615,East,OFF-BI-10000848,Office Supplies,1.641,1,0.7
+2729,CA-2017-119193,27-12-2014,2014,29-12-2014,First Class,SK-19990 Sally Knutson,Consumer,United States,Toledo,Ohio,43615,East,TEC-PH-10003072,Technology,629.958,7,0.4
+2734,CA-2014-107594,31-12-2014,2014,29-5-2017,Standard Class,EH-13945 Eric Hoffmann,Consumer,United States,Plainfield,New Jersey,7060,East,OFF-AR-10000716,Office Supplies,5.58,1,0
+2736,CA-2015-115798,19-4-2014,2014,14-11-2016,Standard Class,KL-16645 Ken Lonsdale,Consumer,United States,Newark,Delaware,19711,East,TEC-PH-10003691,Technology,377.97,3,0
+2740,CA-2017-122707,27-7-2014,2014,14-6-2017,First Class,EB-13750 Edward Becker,Corporate,United States,Hoover,Alabama,35244,South,OFF-SU-10000157,Office Supplies,477.24,4,0
+2782,CA-2017-146724,30-5-2014,2014,31-12-2016,Standard Class,HG-15025 Hunter Glantz,Consumer,United States,Lakeville,Minnesota,55044,Central,OFF-AR-10001026,Office Supplies,22,10,0
+2797,CA-2014-154599,14-3-2014,2014,25-12-2017,Standard Class,KN-16450 Kean Nguyen,Corporate,United States,Redondo Beach,California,90278,West,FUR-BO-10001337,Furniture,308.499,3,0.15
+2798,CA-2017-158743,14-3-2014,2014,14-9-2017,Standard Class,IG-15085 Ivan Gibson,Consumer,United States,Little Rock,Arkansas,72209,South,OFF-AR-10002257,Office Supplies,13.36,4,0
+2799,CA-2017-158743,14-3-2014,2014,14-9-2017,Standard Class,IG-15085 Ivan Gibson,Consumer,United States,Little Rock,Arkansas,72209,South,OFF-PA-10001019,Office Supplies,39.96,2,0
+2800,CA-2017-158743,14-3-2014,2014,14-9-2017,Standard Class,IG-15085 Ivan Gibson,Consumer,United States,Little Rock,Arkansas,72209,South,OFF-BI-10003364,Office Supplies,145.85,5,0
+2801,CA-2016-153318,14-3-2014,2014,14-9-2017,First Class,JS-15595 Jill Stevenson,Corporate,United States,Miami,Florida,33180,South,TEC-PH-10000984,Technology,783.96,5,0.2
+2809,CA-2015-148635,20-12-2014,2014,17-3-2017,Second Class,MH-18025 Michelle Huthwaite,Consumer,United States,Seattle,Washington,98115,West,FUR-BO-10002213,Furniture,704.9,5,0
+2810,CA-2015-148635,20-12-2014,2014,29-4-2017,Second Class,MH-18025 Michelle Huthwaite,Consumer,United States,Seattle,Washington,98115,West,FUR-CH-10001854,Furniture,561.568,2,0.2
+2811,CA-2015-135685,20-12-2014,2014,29-4-2017,Second Class,MP-18175 Mike Pelletier,Home Office,United States,Milwaukee,Wisconsin,53209,Central,OFF-PA-10000157,Office Supplies,179.82,9,0
+2812,CA-2015-135685,20-12-2014,2014,29-4-2017,Second Class,MP-18175 Mike Pelletier,Home Office,United States,Milwaukee,Wisconsin,53209,Central,FUR-FU-10001185,Furniture,185.58,6,0
+2813,CA-2015-135685,20-12-2014,2014,16-9-2016,Second Class,MP-18175 Mike Pelletier,Home Office,United States,Milwaukee,Wisconsin,53209,Central,FUR-TA-10001520,Furniture,214.11,3,0
+2827,US-2014-112914,31-3-2014,2014,17-1-2016,Standard Class,MT-18070 Michelle Tran,Home Office,United States,Houston,Texas,77041,Central,OFF-BI-10002982,Office Supplies,2.724,2,0.8
+2828,US-2014-112914,16-12-2014,2014,29-3-2017,Standard Class,MT-18070 Michelle Tran,Home Office,United States,Houston,Texas,77041,Central,OFF-EN-10001509,Office Supplies,3.264,2,0.2
+2829,CA-2016-124149,16-12-2014,2014,19-3-2014,First Class,MJ-17740 Max Jones,Consumer,United States,Lancaster,Ohio,43130,East,OFF-PA-10002421,Office Supplies,108.336,6,0.2
+2834,CA-2017-134649,25-11-2014,2014,18-7-2016,Second Class,CA-11965 Carol Adams,Corporate,United States,Hoover,Alabama,35244,South,OFF-AR-10001547,Office Supplies,15.47,7,0
+2835,CA-2017-134649,25-11-2014,2014,30-6-2016,Second Class,CA-11965 Carol Adams,Corporate,United States,Hoover,Alabama,35244,South,OFF-BI-10001890,Office Supplies,7.16,2,0
+2852,CA-2017-107342,17-9-2014,2014,18-5-2016,Standard Class,VF-21715 Vicky Freymann,Home Office,United States,Columbus,Indiana,47201,Central,OFF-PA-10001745,Office Supplies,28.16,4,0
+2857,CA-2016-128594,31-10-2014,2014,30-6-2017,First Class,DJ-13510 Don Jones,Corporate,United States,San Diego,California,92037,West,FUR-CH-10001215,Furniture,1603.136,4,0.2
+2880,CA-2016-152072,23-11-2014,2014,24-2-2015,Standard Class,Dp-13240 Dean percer,Home Office,United States,Westfield,New Jersey,7090,East,TEC-AC-10000844,Technology,254.97,3,0
+2886,US-2016-159856,26-12-2014,2014,24-11-2017,Standard Class,EP-13915 Emily Phan,Consumer,United States,Tempe,Arizona,85281,West,FUR-CH-10003396,Furniture,307.92,5,0.2
+2887,CA-2017-102099,26-12-2014,2014,16-12-2015,First Class,EP-13915 Emily Phan,Consumer,United States,Los Angeles,California,90008,West,OFF-AR-10003811,Office Supplies,6.63,3,0
+2888,CA-2017-102099,26-12-2014,2014,25-9-2017,First Class,EP-13915 Emily Phan,Consumer,United States,Los Angeles,California,90008,West,OFF-PA-10003172,Office Supplies,12.96,2,0
+2889,CA-2017-102099,26-12-2014,2014,21-9-2014,First Class,EP-13915 Emily Phan,Consumer,United States,Los Angeles,California,90008,West,OFF-PA-10000289,Office Supplies,32.4,5,0
+2898,US-2016-164630,25-6-2014,2014,23-2-2016,Standard Class,EB-13975 Erica Bern,Corporate,United States,Charlotte,North Carolina,28205,South,TEC-CO-10000971,Technology,959.968,4,0.2
+2899,US-2015-114839,25-6-2014,2014,23-2-2016,Standard Class,PW-19240 Pierre Wener,Consumer,United States,Houston,Texas,77036,Central,FUR-CH-10004086,Furniture,408.422,2,0.3
+2900,CA-2015-166464,25-6-2014,2014,16-12-2015,Standard Class,PG-18895 Paul Gonzalez,Consumer,United States,New York City,New York,10035,East,TEC-CO-10000971,Technology,479.984,2,0.2
+2918,CA-2017-155047,16-12-2014,2014,17-7-2017,First Class,SE-20110 Sanjit Engle,Consumer,United States,Dallas,Texas,75220,Central,OFF-AR-10003338,Office Supplies,5.952,1,0.2
+2930,CA-2017-143434,15-10-2014,2014,31-12-2014,Standard Class,ME-17320 Maria Etezadi,Home Office,United States,Saginaw,Michigan,48601,Central,FUR-FU-10002597,Furniture,19.76,4,0
+2931,CA-2015-168564,15-10-2014,2014,31-12-2014,Same Day,TT-21220 Thomas Thornton,Consumer,United States,San Francisco,California,94109,West,OFF-BI-10004970,Office Supplies,6.608,2,0.2
+2935,US-2016-169040,14-10-2014,2014,26-11-2016,Standard Class,GT-14710 Greg Tran,Consumer,United States,Seattle,Washington,98105,West,TEC-PH-10002834,Technology,431.976,3,0.2
+2936,US-2016-169040,14-10-2014,2014,26-11-2016,Standard Class,GT-14710 Greg Tran,Consumer,United States,Seattle,Washington,98105,West,OFF-EN-10000927,Office Supplies,35.89,1,0
+2937,US-2016-169040,18-11-2014,2014,15-11-2017,Standard Class,GT-14710 Greg Tran,Consumer,United States,Seattle,Washington,98105,West,OFF-BI-10001636,Office Supplies,47.208,7,0.2
+2938,US-2016-169040,18-11-2014,2014,21-5-2016,Standard Class,GT-14710 Greg Tran,Consumer,United States,Seattle,Washington,98105,West,OFF-PA-10001736,Office Supplies,248.08,7,0
+2957,CA-2017-123638,13-1-2014,2014,16-4-2014,Standard Class,MA-17995 Michelle Arnett,Home Office,United States,Watertown,New York,13601,East,FUR-CH-10002647,Furniture,191.646,3,0.1
+2958,CA-2017-168900,13-1-2014,2014,14-11-2016,Standard Class,SH-20395 Shahid Hopkins,Consumer,United States,Springfield,Ohio,45503,East,OFF-BI-10003910,Office Supplies,2.313,1,0.7
+2959,CA-2015-158456,13-1-2014,2014,14-11-2016,Standard Class,KT-16465 Kean Takahito,Consumer,United States,Los Angeles,California,90032,West,OFF-BI-10001097,Office Supplies,19.936,4,0.2
+2972,CA-2017-167941,16-11-2014,2014,15-3-2017,Second Class,JF-15565 Jill Fjeld,Consumer,United States,Fayetteville,North Carolina,28314,South,FUR-FU-10004671,Furniture,28.272,2,0.2
+2982,CA-2014-131310,07-12-2014,2014,17-10-2014,Standard Class,CL-12565 Clay Ludtke,Consumer,United States,Seattle,Washington,98115,West,FUR-CH-10001797,Furniture,123.136,4,0.2
+2983,CA-2014-131310,07-12-2014,2014,17-10-2014,Standard Class,CL-12565 Clay Ludtke,Consumer,United States,Seattle,Washington,98115,West,OFF-BI-10003094,Office Supplies,11.264,4,0.2
+2984,US-2014-112872,12-06-2014,2014,27-8-2016,Second Class,RC-19960 Ryan Crowe,Consumer,United States,Springfield,Oregon,97477,West,OFF-ST-10002205,Office Supplies,53.424,3,0.2
+2985,US-2014-112872,12-06-2014,2014,21-12-2017,Second Class,RC-19960 Ryan Crowe,Consumer,United States,Springfield,Oregon,97477,West,FUR-TA-10003238,Furniture,275.49,1,0.5
+3142,US-2014-122959,12-12-2014,2014,,Same Day,CY-12745 Craig Yedwab,Corporate,United States,San Antonio,Texas,78207,Central,OFF-BI-10003650,Office Supplies,210.392,2,0.8
+3156,CA-2014-128986,08-03-2014,2014,,Second Class,GH-14410 Gary Hansen,Home Office,United States,Glendale,Arizona,85301,West,OFF-PA-10001289,Office Supplies,93.024,3,0.2
+3161,US-2014-150924,09-12-2014,2014,,Second Class,PT-19090 Pete Takahito,Consumer,United States,Houston,Texas,77070,Central,OFF-BI-10004040,Office Supplies,5.18,5,0.8
+3186,CA-2014-123498,11-07-2014,2014,,First Class,TC-20980 Tamara Chand,Corporate,United States,Houston,Texas,77041,Central,OFF-BI-10000632,Office Supplies,26.046,3,0.8
+3187,CA-2014-123498,11-07-2014,2014,,First Class,TC-20980 Tamara Chand,Corporate,United States,Houston,Texas,77041,Central,OFF-EN-10004773,Office Supplies,74.352,3,0.2
+3194,CA-2014-165428,09-01-2014,2014,,First Class,JL-15130 Jack Lebron,Consumer,United States,Houston,Texas,77036,Central,OFF-BI-10002949,Office Supplies,3.648,3,0.8
+3195,CA-2014-165428,09-01-2014,2014,,First Class,JL-15130 Jack Lebron,Consumer,United States,Houston,Texas,77036,Central,OFF-PA-10004100,Office Supplies,31.104,6,0.2
+3199,CA-2014-131527,12-01-2014,2014,,Standard Class,TB-21280 Toby Braunhardt,Consumer,United States,Jacksonville,North Carolina,28540,South,TEC-PH-10001644,Technology,95.968,4,0.2
+3203,CA-2014-158372,11-10-2014,2014,,Standard Class,RD-19900 Ruben Dartt,Consumer,United States,San Diego,California,92037,West,TEC-PH-10002103,Technology,601.536,8,0.2
+3204,CA-2014-158372,11-10-2014,2014,,Standard Class,RD-19900 Ruben Dartt,Consumer,United States,San Diego,California,92037,West,TEC-AC-10004209,Technology,10.99,1,0
+3205,CA-2014-158372,11-10-2014,2014,,Standard Class,RD-19900 Ruben Dartt,Consumer,United States,San Diego,California,92037,West,FUR-FU-10000397,Furniture,39.88,2,0
+3206,CA-2014-158372,11-10-2014,2014,,Standard Class,RD-19900 Ruben Dartt,Consumer,United States,San Diego,California,92037,West,OFF-PA-10002137,Office Supplies,62.24,8,0
+3207,CA-2014-158372,11-10-2014,2014,,Standard Class,RD-19900 Ruben Dartt,Consumer,United States,San Diego,California,92037,West,FUR-FU-10001867,Furniture,53.2,5,0
+3208,CA-2014-158372,11-10-2014,2014,,Standard Class,RD-19900 Ruben Dartt,Consumer,United States,San Diego,California,92037,West,OFF-LA-10000407,Office Supplies,39.84,8,0
+3223,CA-2014-108189,10-02-2014,2014,,First Class,ES-14080 Erin Smith,Corporate,United States,Tempe,Arizona,85281,West,OFF-PA-10001838,Office Supplies,9.408,2,0.2
+3224,CA-2014-108189,10-02-2014,2014,,First Class,ES-14080 Erin Smith,Corporate,United States,Tempe,Arizona,85281,West,OFF-FA-10000735,Office Supplies,4.672,2,0.2
+3225,CA-2014-108189,10-02-2014,2014,,First Class,ES-14080 Erin Smith,Corporate,United States,Tempe,Arizona,85281,West,TEC-PH-10001760,Technology,318.4,2,0.2
+3226,CA-2014-108189,10-02-2014,2014,,First Class,ES-14080 Erin Smith,Corporate,United States,Tempe,Arizona,85281,West,OFF-EN-10004846,Office Supplies,12.768,6,0.2
+3227,CA-2014-108189,10-02-2014,2014,,First Class,ES-14080 Erin Smith,Corporate,United States,Tempe,Arizona,85281,West,OFF-SU-10003567,Office Supplies,15.36,2,0.2
+3228,CA-2014-108189,10-02-2014,2014,,First Class,ES-14080 Erin Smith,Corporate,United States,Tempe,Arizona,85281,West,TEC-PH-10001557,Technology,230.376,3,0.2
+3229,CA-2014-108189,10-02-2014,2014,,First Class,ES-14080 Erin Smith,Corporate,United States,Tempe,Arizona,85281,West,TEC-AC-10003038,Technology,7.16,1,0.2
+3230,CA-2014-154641,08-11-2014,2014,,Standard Class,KL-16645 Ken Lonsdale,Consumer,United States,New York City,New York,10035,East,OFF-ST-10004459,Office Supplies,375.34,1,0
+3266,US-2014-126571,10-11-2014,2014,,Standard Class,JF-15565 Jill Fjeld,Consumer,United States,Philadelphia,Pennsylvania,19120,East,OFF-ST-10003816,Office Supplies,281.904,2,0.2
+3267,US-2014-126571,10-11-2014,2014,,Standard Class,JF-15565 Jill Fjeld,Consumer,United States,Philadelphia,Pennsylvania,19120,East,OFF-EN-10002230,Office Supplies,201.432,3,0.2
+3277,CA-2014-102988,04-05-2014,2014,,Second Class,GM-14695 Greg Maxwell,Corporate,United States,Alexandria,Virginia,22304,South,OFF-AR-10004757,Office Supplies,22.96,7,0
+3278,CA-2014-102988,04-05-2014,2014,,Second Class,GM-14695 Greg Maxwell,Corporate,United States,Alexandria,Virginia,22304,South,TEC-PH-10001615,Technology,28.99,1,0
+3279,CA-2014-102988,04-05-2014,2014,,Second Class,GM-14695 Greg Maxwell,Corporate,United States,Alexandria,Virginia,22304,South,OFF-PA-10003349,Office Supplies,12.96,2,0
+3280,CA-2014-102988,04-05-2014,2014,,Second Class,GM-14695 Greg Maxwell,Corporate,United States,Alexandria,Virginia,22304,South,OFF-AR-10000127,Office Supplies,22.96,7,0
+3281,CA-2014-102988,04-05-2014,2014,,Second Class,GM-14695 Greg Maxwell,Corporate,United States,Alexandria,Virginia,22304,South,OFF-SU-10002881,Office Supplies,4164.05,5,0
+3285,CA-2014-103702,09-12-2014,2014,,Standard Class,AF-10885 Art Foster,Consumer,United States,Fairfield,Ohio,45014,East,OFF-BI-10002429,Office Supplies,63.924,7,0.7
+3325,CA-2014-165309,11-11-2014,2014,,Standard Class,KD-16270 Karen Daniels,Consumer,United States,Houston,Texas,77095,Central,OFF-BI-10001359,Office Supplies,896.99,5,0.8
+3326,CA-2014-165309,11-11-2014,2014,,Standard Class,KD-16270 Karen Daniels,Consumer,United States,Houston,Texas,77095,Central,OFF-BI-10001267,Office Supplies,1.234,1,0.8
+3327,CA-2014-165309,11-11-2014,2014,,Standard Class,KD-16270 Karen Daniels,Consumer,United States,Houston,Texas,77095,Central,OFF-AR-10003582,Office Supplies,67.56,3,0.2
+3328,CA-2014-165309,11-11-2014,2014,,Standard Class,KD-16270 Karen Daniels,Consumer,United States,Houston,Texas,77095,Central,OFF-PA-10003724,Office Supplies,21.72,5,0.2
+3329,CA-2014-165309,11-11-2014,2014,,Standard Class,KD-16270 Karen Daniels,Consumer,United States,Houston,Texas,77095,Central,OFF-PA-10001033,Office Supplies,262.336,8,0.2
+3330,CA-2014-165309,11-11-2014,2014,,Standard Class,KD-16270 Karen Daniels,Consumer,United States,Houston,Texas,77095,Central,TEC-PH-10003505,Technology,148.48,2,0.2
+3331,CA-2014-165309,11-11-2014,2014,,Standard Class,KD-16270 Karen Daniels,Consumer,United States,Houston,Texas,77095,Central,TEC-PH-10004959,Technology,241.176,3,0.2
+3367,CA-2014-165379,07-09-2014,2014,,Standard Class,BM-11650 Brian Moss,Corporate,United States,Dallas,Texas,75217,Central,OFF-PA-10003072,Office Supplies,10.368,2,0.2
+3368,CA-2014-165379,07-09-2014,2014,,Standard Class,BM-11650 Brian Moss,Corporate,United States,Dallas,Texas,75217,Central,OFF-PA-10002245,Office Supplies,14.352,3,0.2
+3392,CA-2014-166471,08-09-2014,2014,,Standard Class,MG-17650 Matthew Grinstein,Home Office,United States,Seattle,Washington,98103,West,TEC-PH-10001530,Technology,1091.168,4,0.2
+3393,CA-2014-166471,08-09-2014,2014,,Standard Class,MG-17650 Matthew Grinstein,Home Office,United States,Seattle,Washington,98103,West,TEC-PH-10000038,Technology,219.168,2,0.2
+3442,CA-2014-158337,03-11-2014,2014,,Second Class,KA-16525 Kelly Andreada,Consumer,United States,New York City,New York,10024,East,OFF-PA-10002137,Office Supplies,108.92,14,0
+3450,CA-2014-168592,09-08-2014,2014,,Standard Class,DP-13390 Dennis Pardue,Home Office,United States,San Francisco,California,94110,West,OFF-AP-10004785,Office Supplies,56.65,5,0
+3451,CA-2014-168592,09-08-2014,2014,,Standard Class,DP-13390 Dennis Pardue,Home Office,United States,San Francisco,California,94110,West,OFF-ST-10002406,Office Supplies,14.97,1,0
+3452,CA-2014-168592,09-08-2014,2014,,Standard Class,DP-13390 Dennis Pardue,Home Office,United States,San Francisco,California,94110,West,OFF-FA-10002988,Office Supplies,4.02,2,0
+3482,CA-2014-124023,04-07-2014,2014,,First Class,PJ-19015 Pauline Johnson,Consumer,United States,Mobile,Alabama,36608,South,FUR-FU-10004415,Furniture,8.96,2,0
+3538,CA-2014-158771,05-09-2014,2014,,Same Day,SB-20290 Sean Braxton,Corporate,United States,Henderson,Kentucky,42420,South,OFF-ST-10000107,Office Supplies,83.25,3,0
+3539,CA-2014-158771,05-09-2014,2014,,Same Day,SB-20290 Sean Braxton,Corporate,United States,Henderson,Kentucky,42420,South,OFF-LA-10001641,Office Supplies,9.45,3,0
+3540,CA-2014-158771,05-09-2014,2014,,Same Day,SB-20290 Sean Braxton,Corporate,United States,Henderson,Kentucky,42420,South,OFF-LA-10003121,Office Supplies,20.65,5,0
+3541,CA-2014-158771,05-09-2014,2014,,Same Day,SB-20290 Sean Braxton,Corporate,United States,Henderson,Kentucky,42420,South,OFF-PA-10002689,Office Supplies,45.36,7,0
+3597,CA-2014-102869,09-09-2014,2014,,Second Class,LC-17140 Logan Currie,Consumer,United States,Philadelphia,Pennsylvania,19140,East,OFF-PA-10000788,Office Supplies,15.552,3,0.2
+3598,CA-2014-102869,09-09-2014,2014,,Second Class,LC-17140 Logan Currie,Consumer,United States,Philadelphia,Pennsylvania,19140,East,TEC-AC-10002134,Technology,64.704,6,0.2
+3599,CA-2014-102869,09-09-2014,2014,,Second Class,LC-17140 Logan Currie,Consumer,United States,Philadelphia,Pennsylvania,19140,East,FUR-FU-10002456,Furniture,17.472,3,0.2
+3600,CA-2014-102869,09-09-2014,2014,,Second Class,LC-17140 Logan Currie,Consumer,United States,Philadelphia,Pennsylvania,19140,East,TEC-PH-10002549,Technology,135.516,1,0.4
+3629,CA-2014-169726,08-09-2014,2014,,Standard Class,JH-15985 Joseph Holt,Consumer,United States,Seattle,Washington,98103,West,OFF-BI-10004600,Office Supplies,2060.744,7,0.2
+3665,CA-2014-129364,12-08-2014,2014,,Standard Class,TB-21250 Tim Brockman,Consumer,United States,Salem,Oregon,97301,West,OFF-LA-10001569,Office Supplies,27.888,7,0.2
+3666,CA-2014-129364,12-08-2014,2014,,Standard Class,TB-21250 Tim Brockman,Consumer,United States,Salem,Oregon,97301,West,OFF-BI-10001132,Office Supplies,6.456,4,0.7
+3667,CA-2014-129364,12-08-2014,2014,,Standard Class,TB-21250 Tim Brockman,Consumer,United States,Salem,Oregon,97301,West,TEC-PH-10003095,Technology,52.68,3,0.2
+3668,CA-2014-129364,12-08-2014,2014,,Standard Class,TB-21250 Tim Brockman,Consumer,United States,Salem,Oregon,97301,West,OFF-SU-10000432,Office Supplies,13.88,5,0.2
+3669,CA-2014-129364,12-08-2014,2014,,Standard Class,TB-21250 Tim Brockman,Consumer,United States,Salem,Oregon,97301,West,TEC-AC-10004227,Technology,103.92,10,0.2
+3670,CA-2014-129364,12-08-2014,2014,,Standard Class,TB-21250 Tim Brockman,Consumer,United States,Salem,Oregon,97301,West,OFF-LA-10004409,Office Supplies,11.52,5,0.2
+3671,CA-2014-129364,12-08-2014,2014,,Standard Class,TB-21250 Tim Brockman,Consumer,United States,Salem,Oregon,97301,West,OFF-PA-10001569,Office Supplies,10.368,2,0.2
+3672,CA-2014-129364,12-08-2014,2014,,Standard Class,TB-21250 Tim Brockman,Consumer,United States,Salem,Oregon,97301,West,OFF-ST-10001031,Office Supplies,39.072,3,0.2
+3715,CA-2014-135608,12-08-2014,2014,,Second Class,JK-15625 Jim Karlsson,Consumer,United States,Olympia,Washington,98502,West,OFF-PA-10001954,Office Supplies,45.68,2,0
+3716,CA-2014-135608,12-08-2014,2014,,Second Class,JK-15625 Jim Karlsson,Consumer,United States,Olympia,Washington,98502,West,FUR-CH-10002602,Furniture,603.92,5,0.2
+3773,CA-2014-115357,08-06-2014,2014,,Second Class,RF-19735 Roland Fjeld,Consumer,United States,Columbia,South Carolina,29203,South,TEC-AC-10000023,Technology,62.91,3,0
+3774,US-2014-102715,04-11-2014,2014,,Second Class,JK-15370 Jay Kimmel,Consumer,United States,Miami,Florida,33180,South,OFF-FA-10001332,Office Supplies,6.912,3,0.2
+3775,US-2014-102715,04-11-2014,2014,,Second Class,JK-15370 Jay Kimmel,Consumer,United States,Miami,Florida,33180,South,TEC-AC-10002001,Technology,383.976,3,0.2
+3776,US-2014-102715,04-11-2014,2014,,Second Class,JK-15370 Jay Kimmel,Consumer,United States,Miami,Florida,33180,South,OFF-PA-10000029,Office Supplies,10.368,2,0.2
+3777,US-2014-102715,04-11-2014,2014,,Second Class,JK-15370 Jay Kimmel,Consumer,United States,Miami,Florida,33180,South,TEC-AC-10001874,Technology,335.944,7,0.2
+3791,CA-2014-107139,07-05-2014,2014,,Standard Class,DP-13390 Dennis Pardue,Home Office,United States,Los Angeles,California,90004,West,OFF-BI-10001670,Office Supplies,180.96,6,0.2
+3827,CA-2014-132801,10-07-2014,2014,,Standard Class,JG-15805 John Grady,Corporate,United States,Dallas,Texas,75217,Central,OFF-ST-10001228,Office Supplies,107.44,10,0.2
+3836,CA-2014-100363,04-08-2014,2014,,Standard Class,JM-15655 Jim Mitchum,Corporate,United States,Glendale,Arizona,85301,West,OFF-FA-10000611,Office Supplies,2.368,2,0.2
+3837,CA-2014-100363,04-08-2014,2014,,Standard Class,JM-15655 Jim Mitchum,Corporate,United States,Glendale,Arizona,85301,West,OFF-PA-10004733,Office Supplies,19.008,3,0.2
+3842,US-2014-109162,06-08-2014,2014,,Standard Class,KE-16420 Katrina Edelman,Corporate,United States,Bristol,Tennessee,37620,South,FUR-CH-10002647,Furniture,170.352,3,0.2
+3862,CA-2014-135755,05-03-2014,2014,,Standard Class,NC-18415 Nathan Cano,Consumer,United States,Yonkers,New York,10701,East,OFF-BI-10004828,Office Supplies,40.176,3,0.2
+3863,CA-2014-135755,05-03-2014,2014,,Standard Class,NC-18415 Nathan Cano,Consumer,United States,Yonkers,New York,10701,East,OFF-BI-10003981,Office Supplies,10.896,3,0.2
+3879,CA-2014-151001,04-05-2014,2014,,First Class,JG-15805 John Grady,Corporate,United States,Decatur,Illinois,62521,Central,OFF-ST-10003455,Office Supplies,49.632,4,0.2
+3880,CA-2014-151001,04-05-2014,2014,,First Class,JG-15805 John Grady,Corporate,United States,Decatur,Illinois,62521,Central,OFF-ST-10001031,Office Supplies,52.096,4,0.2
+3885,CA-2014-152849,07-05-2014,2014,,Standard Class,DW-13195 David Wiener,Corporate,United States,Knoxville,Tennessee,37918,South,OFF-AR-10002833,Office Supplies,4.368,3,0.2
+3888,CA-2014-100895,06-02-2014,2014,,Standard Class,SV-20785 Stewart Visinsky,Consumer,United States,Roswell,Georgia,30076,South,OFF-AR-10004511,Office Supplies,8.56,2,0
+3889,CA-2014-100895,06-02-2014,2014,,Standard Class,SV-20785 Stewart Visinsky,Consumer,United States,Roswell,Georgia,30076,South,TEC-PH-10001425,Technology,239.97,3,0
+3890,CA-2014-100895,06-02-2014,2014,,Standard Class,SV-20785 Stewart Visinsky,Consumer,United States,Roswell,Georgia,30076,South,OFF-ST-10001490,Office Supplies,356.94,2,0
+3955,CA-2014-133228,04-04-2014,2014,,Standard Class,MS-17710 Maurice Satty,Consumer,United States,Detroit,Michigan,48205,Central,FUR-FU-10004020,Furniture,5.47,1,0
+3956,CA-2014-133228,04-04-2014,2014,,Standard Class,MS-17710 Maurice Satty,Consumer,United States,Detroit,Michigan,48205,Central,OFF-AR-10001955,Office Supplies,79.36,4,0
+3966,CA-2014-164910,11-12-2014,2014,,Second Class,DM-13345 Denise Monton,Corporate,United States,Asheville,North Carolina,28806,South,OFF-AR-10003651,Office Supplies,7.872,3,0.2
+3991,CA-2014-137589,11-03-2014,2014,,Standard Class,MS-17770 Maxwell Schwartz,Consumer,United States,Lancaster,Pennsylvania,17602,East,OFF-SU-10000157,Office Supplies,286.344,3,0.2
+4001,CA-2014-116834,10-11-2014,2014,,Standard Class,Dp-13240 Dean percer,Home Office,United States,Seattle,Washington,98115,West,FUR-FU-10001196,Furniture,63.47,11,0
+4002,CA-2014-116834,10-11-2014,2014,,Standard Class,Dp-13240 Dean percer,Home Office,United States,Seattle,Washington,98115,West,TEC-AC-10002942,Technology,345,5,0
+4066,CA-2014-102673,11-01-2014,2014,,Standard Class,KH-16630 Ken Heidel,Corporate,United States,Charlotte,North Carolina,28205,South,OFF-FA-10003021,Office Supplies,7.52,5,0.2
+4067,CA-2014-102673,11-01-2014,2014,,Standard Class,KH-16630 Ken Heidel,Corporate,United States,Charlotte,North Carolina,28205,South,OFF-AR-10000634,Office Supplies,10.272,3,0.2
+4068,CA-2014-102673,11-01-2014,2014,,Standard Class,KH-16630 Ken Heidel,Corporate,United States,Charlotte,North Carolina,28205,South,OFF-LA-10001771,Office Supplies,47.808,12,0.2
+4069,CA-2014-102673,11-01-2014,2014,,Standard Class,KH-16630 Ken Heidel,Corporate,United States,Charlotte,North Carolina,28205,South,TEC-PH-10004434,Technology,978.84,9,0.2
+4125,CA-2014-127523,05-11-2014,2014,,Standard Class,BG-11695 Brooke Gillingham,Corporate,United States,Watertown,New York,13601,East,OFF-AP-10004249,Office Supplies,35.91,3,0
+4134,CA-2014-128839,09-08-2014,2014,,Standard Class,TT-21070 Ted Trevino,Consumer,United States,Chesapeake,Virginia,23320,South,OFF-FA-10002280,Office Supplies,45,9,0
+4135,CA-2014-128839,09-08-2014,2014,,Standard Class,TT-21070 Ted Trevino,Consumer,United States,Chesapeake,Virginia,23320,South,TEC-MA-10000029,Technology,209.97,3,0
+4159,CA-2014-126907,11-01-2014,2014,,Standard Class,SM-20950 Suzanne McNair,Corporate,United States,Chicago,Illinois,60610,Central,OFF-PA-10000533,Office Supplies,15.696,3,0.2
+4168,CA-2014-157924,10-11-2014,2014,,First Class,HA-14920 Helen Andreada,Consumer,United States,Pasadena,California,91104,West,OFF-ST-10002352,Office Supplies,31.92,4,0
+4169,CA-2014-157924,10-11-2014,2014,,First Class,HA-14920 Helen Andreada,Consumer,United States,Pasadena,California,91104,West,FUR-CH-10000229,Furniture,433.568,2,0.2
+4177,CA-2014-128846,04-07-2014,2014,,Standard Class,RS-19765 Roland Schwarz,Corporate,United States,Columbia,South Carolina,29203,South,TEC-PH-10003273,Technology,629.95,5,0
+4178,CA-2014-128846,04-07-2014,2014,,Standard Class,RS-19765 Roland Schwarz,Corporate,United States,Columbia,South Carolina,29203,South,OFF-PA-10000100,Office Supplies,122.97,3,0
+4212,CA-2014-166457,05-05-2014,2014,,Second Class,PF-19120 Peter Fuller,Consumer,United States,Richmond,Kentucky,40475,South,OFF-PA-10003016,Office Supplies,9.42,3,0
+4213,CA-2014-166457,05-05-2014,2014,,Second Class,PF-19120 Peter Fuller,Consumer,United States,Richmond,Kentucky,40475,South,OFF-AR-10003651,Office Supplies,6.56,2,0
+4214,CA-2014-166457,05-05-2014,2014,,Second Class,PF-19120 Peter Fuller,Consumer,United States,Richmond,Kentucky,40475,South,OFF-PA-10001363,Office Supplies,24.56,2,0
+4309,CA-2014-125829,11-04-2014,2014,,Standard Class,WB-21850 William Brown,Consumer,United States,Los Angeles,California,90045,West,TEC-PH-10001079,Technology,666.344,7,0.2
+4310,CA-2014-125829,11-04-2014,2014,,Standard Class,WB-21850 William Brown,Consumer,United States,Los Angeles,California,90045,West,FUR-TA-10002041,Furniture,573.728,4,0.2
+4311,CA-2014-125829,11-04-2014,2014,,Standard Class,WB-21850 William Brown,Consumer,United States,Los Angeles,California,90045,West,OFF-BI-10001036,Office Supplies,21.936,3,0.2
+4312,CA-2014-125829,11-04-2014,2014,,Standard Class,WB-21850 William Brown,Consumer,United States,Los Angeles,California,90045,West,OFF-PA-10000223,Office Supplies,19.44,3,0
+4313,CA-2014-125829,11-04-2014,2014,,Standard Class,WB-21850 William Brown,Consumer,United States,Los Angeles,California,90045,West,TEC-MA-10003246,Technology,447.968,4,0.2
+4314,CA-2014-123127,09-08-2014,2014,,Standard Class,SP-20620 Stefania Perrino,Corporate,United States,Long Beach,New York,11561,East,OFF-AP-10001962,Office Supplies,16.78,2,0
+4398,US-2014-138758,07-07-2014,2014,,Standard Class,JL-15835 John Lee,Consumer,United States,Philadelphia,Pennsylvania,19120,East,FUR-CH-10002880,Furniture,172.186,2,0.3
+4399,US-2014-138758,07-07-2014,2014,,Standard Class,JL-15835 John Lee,Consumer,United States,Philadelphia,Pennsylvania,19120,East,FUR-FU-10003039,Furniture,69.008,2,0.2
+4404,CA-2014-127936,09-02-2014,2014,,First Class,CL-12565 Clay Ludtke,Consumer,United States,New York City,New York,10009,East,OFF-AR-10002445,Office Supplies,21.24,3,0
+4410,US-2014-154879,05-06-2014,2014,,Standard Class,SN-20710 Steve Nguyen,Home Office,United States,Los Angeles,California,90004,West,OFF-LA-10004425,Office Supplies,5.78,2,0
+4411,US-2014-154879,05-06-2014,2014,,Standard Class,SN-20710 Steve Nguyen,Home Office,United States,Los Angeles,California,90004,West,OFF-AR-10001897,Office Supplies,107.94,6,0
+4422,CA-2014-117016,03-04-2014,2014,,Standard Class,SC-20095 Sanjit Chand,Consumer,United States,Margate,Florida,33063,South,OFF-AR-10001374,Office Supplies,15.552,3,0.2
+4492,CA-2014-150798,12-01-2014,2014,,Second Class,JK-15730 Joe Kamberova,Consumer,United States,Columbus,Ohio,43229,East,TEC-CO-10001571,Technology,659.988,2,0.4
+4493,CA-2014-150798,12-01-2014,2014,,Second Class,JK-15730 Joe Kamberova,Consumer,United States,Columbus,Ohio,43229,East,FUR-FU-10000221,Furniture,8.128,2,0.2
+4494,CA-2014-150798,12-01-2014,2014,,Second Class,JK-15730 Joe Kamberova,Consumer,United States,Columbus,Ohio,43229,East,OFF-PA-10001972,Office Supplies,36.288,7,0.2
+4495,CA-2014-150798,12-01-2014,2014,,Second Class,JK-15730 Joe Kamberova,Consumer,United States,Columbus,Ohio,43229,East,FUR-CH-10000015,Furniture,909.72,6,0.3
+4524,CA-2014-107454,11-02-2014,2014,,Standard Class,RD-19720 Roger Demir,Consumer,United States,New York City,New York,10024,East,OFF-LA-10001569,Office Supplies,34.86,7,0
+4525,CA-2014-107454,11-02-2014,2014,,Standard Class,RD-19720 Roger Demir,Consumer,United States,New York City,New York,10024,East,FUR-FU-10004018,Furniture,89.34,6,0
+4533,CA-2014-140403,10-10-2014,2014,,Same Day,TN-21040 Tanja Norvell,Home Office,United States,Manteca,California,95336,West,FUR-CH-10002774,Furniture,122.352,3,0.2
+4534,CA-2014-140403,10-10-2014,2014,,Same Day,TN-21040 Tanja Norvell,Home Office,United States,Manteca,California,95336,West,OFF-EN-10001219,Office Supplies,15.28,2,0
+4560,CA-2014-110219,05-05-2014,2014,,First Class,EB-13870 Emily Burns,Consumer,United States,San Antonio,Texas,78207,Central,FUR-CH-10001146,Furniture,127.869,3,0.3
+4565,CA-2014-101175,12-09-2014,2014,,Standard Class,DM-12955 Dario Medina,Corporate,United States,Mesa,Arizona,85204,West,OFF-ST-10004950,Office Supplies,100.704,6,0.2
+4578,US-2014-121734,04-11-2014,2014,,Standard Class,SE-20110 Sanjit Engle,Consumer,United States,Lewiston,Idaho,83501,West,OFF-BI-10004817,Office Supplies,9.584,1,0.2
+4656,CA-2014-160738,05-05-2014,2014,,Standard Class,KH-16330 Katharine Harms,Corporate,United States,Freeport,Illinois,61032,Central,OFF-ST-10003442,Office Supplies,45.248,2,0.2
+4722,CA-2014-106229,06-07-2014,2014,,Second Class,NR-18550 Nick Radford,Consumer,United States,Aurora,Illinois,60505,Central,FUR-TA-10002041,Furniture,268.935,3,0.5
+4729,CA-2014-123323,11-07-2014,2014,,Standard Class,LH-16900 Lena Hernandez,Consumer,United States,San Francisco,California,94110,West,OFF-BI-10003684,Office Supplies,123.144,7,0.2
+4759,CA-2014-121573,11-03-2014,2014,,Standard Class,SG-20605 Speros Goranitis,Consumer,United States,New York City,New York,10009,East,TEC-PH-10000984,Technology,783.96,4,0
+4760,CA-2014-121573,11-03-2014,2014,,Standard Class,SG-20605 Speros Goranitis,Consumer,United States,New York City,New York,10009,East,OFF-BI-10000666,Office Supplies,48.896,2,0.2
+4761,CA-2014-121573,11-03-2014,2014,,Standard Class,SG-20605 Speros Goranitis,Consumer,United States,New York City,New York,10009,East,OFF-BI-10003712,Office Supplies,7.856,2,0.2
+4780,CA-2014-150301,07-08-2014,2014,,First Class,MH-18025 Michelle Huthwaite,Consumer,United States,Buffalo,New York,14215,East,FUR-CH-10002647,Furniture,63.882,1,0.1
+4781,CA-2014-159310,11-07-2014,2014,,Standard Class,SC-20725 Steven Cartwright,Consumer,United States,Houston,Texas,77070,Central,FUR-CH-10002758,Furniture,683.144,4,0.3
+4782,CA-2014-159310,11-07-2014,2014,,Standard Class,SC-20725 Steven Cartwright,Consumer,United States,Houston,Texas,77070,Central,OFF-BI-10000201,Office Supplies,1.476,3,0.8
+4783,CA-2014-159310,11-07-2014,2014,,Standard Class,SC-20725 Steven Cartwright,Consumer,United States,Houston,Texas,77070,Central,OFF-SU-10004115,Office Supplies,40.712,7,0.2
+4828,CA-2014-152562,11-01-2014,2014,,Standard Class,JO-15145 Jack O'Briant,Corporate,United States,Richmond,Kentucky,40475,South,OFF-ST-10000464,Office Supplies,69.52,2,0
+4829,CA-2014-152562,11-01-2014,2014,,Standard Class,JO-15145 Jack O'Briant,Corporate,United States,Richmond,Kentucky,40475,South,OFF-AR-10001919,Office Supplies,5.64,3,0
+4831,CA-2014-120278,11-07-2014,2014,,Standard Class,MS-17365 Maribeth Schnelling,Consumer,United States,Wausau,Wisconsin,54401,Central,OFF-AP-10001293,Office Supplies,245.88,6,0
+4832,CA-2014-120278,11-07-2014,2014,,Standard Class,MS-17365 Maribeth Schnelling,Consumer,United States,Wausau,Wisconsin,54401,Central,OFF-ST-10004258,Office Supplies,36.63,3,0
+4833,CA-2014-120278,11-07-2014,2014,,Standard Class,MS-17365 Maribeth Schnelling,Consumer,United States,Wausau,Wisconsin,54401,Central,OFF-ST-10002214,Office Supplies,22.58,2,0
+4834,CA-2014-120278,11-07-2014,2014,,Standard Class,MS-17365 Maribeth Schnelling,Consumer,United States,Wausau,Wisconsin,54401,Central,OFF-BI-10004970,Office Supplies,12.39,3,0
+4845,US-2014-128685,04-04-2014,2014,,First Class,MZ-17515 Mary Zewe,Corporate,United States,Los Angeles,California,90008,West,OFF-BI-10004140,Office Supplies,7.184,2,0.2
+4850,CA-2014-107818,09-08-2014,2014,,Standard Class,MC-17275 Marc Crier,Consumer,United States,Pasco,Washington,99301,West,OFF-AR-10003045,Office Supplies,5.88,2,0
+4851,CA-2014-107818,09-08-2014,2014,,Standard Class,MC-17275 Marc Crier,Consumer,United States,Pasco,Washington,99301,West,FUR-CH-10000454,Furniture,975.92,5,0.2
+4852,CA-2014-107818,09-08-2014,2014,,Standard Class,MC-17275 Marc Crier,Consumer,United States,Pasco,Washington,99301,West,OFF-AR-10000380,Office Supplies,303.84,8,0
+4853,CA-2014-107818,09-08-2014,2014,,Standard Class,MC-17275 Marc Crier,Consumer,United States,Pasco,Washington,99301,West,OFF-ST-10000736,Office Supplies,485.88,6,0
+4854,CA-2014-113320,12-12-2014,2014,,Second Class,LH-17155 Logan Haushalter,Consumer,United States,Oakland,California,94601,West,FUR-FU-10004270,Furniture,12.54,3,0
+4855,CA-2014-113320,12-12-2014,2014,,Second Class,LH-17155 Logan Haushalter,Consumer,United States,Oakland,California,94601,West,OFF-ST-10000617,Office Supplies,8.94,3,0
+4856,CA-2014-113320,12-12-2014,2014,,Second Class,LH-17155 Logan Haushalter,Consumer,United States,Oakland,California,94601,West,FUR-FU-10001706,Furniture,9.24,3,0
+4862,CA-2014-138940,04-11-2014,2014,,Second Class,GM-14455 Gary Mitchum,Home Office,United States,Austin,Texas,78745,Central,TEC-PH-10001835,Technology,758.352,6,0.2
+4876,CA-2014-132864,12-02-2014,2014,,Standard Class,KN-16390 Katherine Nockton,Corporate,United States,Columbus,Ohio,43229,East,TEC-AC-10001267,Technology,119.8,5,0.2
+4877,US-2014-155817,10-03-2014,2014,,Standard Class,SL-20155 Sara Luxemburg,Home Office,United States,Durham,North Carolina,27707,South,OFF-ST-10000532,Office Supplies,61.568,2,0.2
+4878,US-2014-155817,10-03-2014,2014,,Standard Class,SL-20155 Sara Luxemburg,Home Office,United States,Durham,North Carolina,27707,South,OFF-AR-10002335,Office Supplies,6.192,3,0.2
+4905,US-2014-161613,12-01-2014,2014,,Second Class,MC-17605 Matt Connell,Corporate,United States,Houston,Texas,77070,Central,FUR-CH-10003746,Furniture,674.058,3,0.3
+4930,US-2014-138828,09-02-2014,2014,,First Class,KD-16345 Katherine Ducich,Consumer,United States,New York City,New York,10009,East,OFF-AR-10000658,Office Supplies,57.75,5,0
+4931,US-2014-138828,09-02-2014,2014,,First Class,KD-16345 Katherine Ducich,Consumer,United States,New York City,New York,10009,East,OFF-PA-10000349,Office Supplies,14.94,3,0
+4948,CA-2014-102085,10-04-2014,2014,,Standard Class,JD-16015 Joy Daniels,Consumer,United States,Seattle,Washington,98115,West,OFF-LA-10002475,Office Supplies,29.24,4,0
+4955,CA-2014-160262,06-09-2014,2014,,Second Class,TS-21205 Thomas Seio,Corporate,United States,North Las Vegas,Nevada,89031,West,OFF-AR-10002335,Office Supplies,18.06,7,0
+4956,CA-2014-160262,06-09-2014,2014,,Second Class,TS-21205 Thomas Seio,Corporate,United States,North Las Vegas,Nevada,89031,West,OFF-PA-10003641,Office Supplies,79.14,3,0
+4957,CA-2014-160262,06-09-2014,2014,,Second Class,TS-21205 Thomas Seio,Corporate,United States,North Las Vegas,Nevada,89031,West,FUR-FU-10002685,Furniture,37.4,2,0
+4962,CA-2014-156587,03-07-2014,2014,,First Class,AB-10015 Aaron Bergman,Consumer,United States,Seattle,Washington,98103,West,FUR-CH-10004477,Furniture,48.712,1,0.2
+4963,CA-2014-156587,03-07-2014,2014,,First Class,AB-10015 Aaron Bergman,Consumer,United States,Seattle,Washington,98103,West,OFF-AR-10001427,Office Supplies,17.94,3,0
+4964,CA-2014-156587,03-07-2014,2014,,First Class,AB-10015 Aaron Bergman,Consumer,United States,Seattle,Washington,98103,West,OFF-ST-10002344,Office Supplies,242.94,3,0
+4986,CA-2014-125171,09-03-2014,2014,,Same Day,AG-10390 Allen Goldenen,Consumer,United States,New York City,New York,10009,East,OFF-LA-10001175,Office Supplies,14.4,5,0
